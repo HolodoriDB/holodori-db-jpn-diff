@@ -10682,6 +10682,34 @@
         }
     },
     {
+        "id": "la-mission-marathon_event-live_clear_count",
+        "data": {
+            "id": "la-mission-marathon_event-live_clear_count",
+            "text": "イベント課題曲を{0}回クリアしよう"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_play_count",
+        "data": {
+            "id": "la-mission-marathon_event-live_play_count",
+            "text": "ライブを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_stamina_consumption",
+        "data": {
+            "id": "la-mission-marathon_event-live_stamina_consumption",
+            "text": "ライブブーストを合計{0}消費しよう"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_score_quantity",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_score_quantity",
+            "text": "イベントPtを{0}獲得しよう"
+        }
+    },
+    {
         "id": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",
         "data": {
             "id": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",

@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "id": "la-marathon_ranking_grade-bronze",
+        "data": {
+            "id": "la-marathon_ranking_grade-bronze",
+            "text": "ブロンズ級"
+        }
+    },
+    {
+        "id": "la-marathon_ranking_grade-diamond",
+        "data": {
+            "id": "la-marathon_ranking_grade-diamond",
+            "text": "ダイヤ級"
+        }
+    },
+    {
+        "id": "la-marathon_ranking_grade-dream",
+        "data": {
+            "id": "la-marathon_ranking_grade-dream",
+            "text": "ドリーム級"
+        }
+    },
+    {
+        "id": "la-marathon_ranking_grade-gold",
+        "data": {
+            "id": "la-marathon_ranking_grade-gold",
+            "text": "ゴールド級"
+        }
+    },
+    {
+        "id": "la-marathon_ranking_grade-platinum",
+        "data": {
+            "id": "la-marathon_ranking_grade-platinum",
+            "text": "プラチナ級"
+        }
+    },
+    {
+        "id": "la-marathon_ranking_grade-silver",
+        "data": {
+            "id": "la-marathon_ranking_grade-silver",
+            "text": "シルバー級"
+        }
+    }
+]

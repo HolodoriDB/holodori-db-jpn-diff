@@ -1046,6 +1046,399 @@
         }
     },
     {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-daily-live_play_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-daily-live_play_count",
+            "threshold": "1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-daily-live_stamina_consumption",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-daily-live_stamina_consumption",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "300"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-live_clear_count",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-live_clear_count",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-live_clear_count",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-live_clear_count",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "700"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+        "threshold": 25,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+            "threshold": "25",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "700"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+        "threshold": 50,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-live_play_count",
+            "threshold": "50",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 10000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "10000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 100000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "100000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 1000000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "1000000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 200000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "200000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 25000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "25000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 300000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "300000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 400000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "400000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 50000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "50000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 500000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "500000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+        "threshold": 750000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-001-chapter-01-marathon_score_quantity",
+            "threshold": "750000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-001-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
         "mission_id": "mission-achievement-common-absolute_skill_tree_release_count",
         "threshold": 1900,
         "data": {
