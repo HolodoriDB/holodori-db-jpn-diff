@@ -1439,6 +1439,81 @@
         }
     },
     {
+        "mission_id": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+            "threshold": "1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_bet_coin",
+                    "quantity": "2000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+        "threshold": 2,
+        "data": {
+            "missionId": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+            "threshold": "2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_bet_coin",
+                    "quantity": "2000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+        "threshold": 3,
+        "data": {
+            "missionId": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+            "threshold": "3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_bet_coin",
+                    "quantity": "2000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+        "threshold": 4,
+        "data": {
+            "missionId": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+            "threshold": "4",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_bet_coin",
+                    "quantity": "2000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_bet_coin",
+                    "quantity": "2000"
+                }
+            ]
+        }
+    },
+    {
         "mission_id": "mission-achievement-common-absolute_skill_tree_release_count",
         "threshold": 1900,
         "data": {
