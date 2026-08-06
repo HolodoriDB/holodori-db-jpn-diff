@@ -70,6 +70,34 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+            "text": "0期生が2人以上で0期生2人のスコアサポート効果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+            "text": "0期生が2人以上で0期生2人のスコアサポート効果[highlight]12[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

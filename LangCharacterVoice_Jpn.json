@@ -631,6 +631,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
@@ -772,6 +820,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0004-00_card-potential-05",
             "text": "【心奪うComet Tune すいせい】開花5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】開花5"
         }
     },
     {
@@ -3175,6 +3271,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00015_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00015_myself-001",
@@ -3256,6 +3366,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0004-00_start-card",
             "text": "【心奪うComet Tune すいせい】ライブ開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】ライブ開始"
         }
     },
     {
@@ -13416,6 +13540,27 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】みこ&すいせい"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】すいせい&みこ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】SPスキル"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00015_00015-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_00015-to-00001",
@@ -13805,6 +13950,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0004-00_00018-to-00015",
             "text": "【心奪うComet Tune すいせい】すいせい&みこ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】みこ&すいせい"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】すいせい&みこ"
         }
     },
     {
@@ -15775,6 +15934,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】みこ&すいせい"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "【ビーチで弾ける、光彩ショット！ みこ】すいせい&みこ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00018_00015-to-00018",
         "data": {
             "id": "la-name_cv-live_dial_chr-00018_00015-to-00018",
@@ -15828,6 +16001,27 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0004-00_myself",
             "text": "【心奪うComet Tune すいせい】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】みこ&すいせい"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】すいせい&みこ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+            "text": "【夏に一閃！水鉄砲のアルペジオ すいせい】SPスキル"
         }
     },
     {
@@ -89037,6 +89231,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-detail",
+            "text": "みこちゃん、ショォォォーーーーーーットッ！！！やったやったやったぁ～ッ♪当たったぁ～～～っ！\nふっふっふ～、この調子ですいちゃんチームを全滅させたるでぇーー！\n……あ、あれ？いつの間にか、敵チームに囲まれてるんですケード\nちょっ、水鉄砲向けんなぁ～！大勢でみこを狙うなんて恥ずかしくないわけぇ！？\n……あっ、嘘です嘘です。お願いですから水鉄砲を下ろしていただけないですかねぇ～……？\nあ……あ……あ……うぎゃああああああああ～～～～っ！！！？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-get",
+            "text": "もっともっとびしょ濡れになって、\nみこと夏のステージを楽しもぉ～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-01",
+            "text": "どうどう、みこの水着、かわちいでしょぉ～～～？えへ、えへえへ……♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-02",
+            "text": "ふふ～んっ♪やっぱ大人にサングラスは必需品ってわーけっ！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-03",
+            "text": "ナイスナイスナイス！いい動きしてるじゃ～んっ♪そのまま敵を滅ぼせぇ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-04",
+            "text": "ヤバイヤバイっ、やられるっ！誰かみこちゃんの盾になってぇ～～～っ！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00015_00015-5-uniq-0067-00_card-potential-05",
+            "text": "う、う、う……さっきは庇ってくれてありがとぉ～。今度はみこが守るからね、約束！"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00016_00016-5-uniq-0014-00_card-detail",
@@ -89181,6 +89424,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0004-00_card-potential-05",
             "text": "今日は来てくれて、ありがとぉ～～～～！これからも私の歌、届けるからね！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-detail",
+            "text": "はい、集合っ！今から、さくらみこ率いるチームとの対決が始まる。\n我がチームが目指すは、圧倒的勝利！！臆することなく、敵に水鉄砲をお見舞いするように！\nわかったなら叫べぇーーー！イエエェェェイッ☆\nはあ～、武者震いが止まんないっ。すいちゃんに水鉄砲を突きつけられて、恐怖に引きつるみこちの顔……絶対に見たいっ！\n早く星街に、あいつの悲鳴を聞かせてくれぇ～！\nえっ？もう始まる？？キタキタキタぁー！突撃ぃーっ☆おりゃあああああーーーっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-get",
+            "text": "暑ーーい！でも、楽しい～～～っ♪\nすいちゃんと夏を遊び尽くそぉ～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-01",
+            "text": "このサングラス、カッコいいでしょ？私の後ろに立つな……なんてねっ☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-02",
+            "text": "私は一歩も引かねぇ！この胸の『HOSHIMACHI』に恐怖しなっ！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-03",
+            "text": "フォローありがと～！この借りは必ず返すから。その背中、すいちゃんに預けなぁ☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-04",
+            "text": "すいちゃんチームの勝利は近いっ！みこちを地べたに這いつくばらせなぁ！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00018_00018-5-uniq-0068-00_card-potential-05",
+            "text": "ほいっ、ジュース。今日は大活躍だったじゃん？ありがとねっ☆また一緒に遊ぼっ♪"
         }
     },
     {
@@ -91627,6 +91919,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_skill-card",
+            "text": "サンシャインみこちゃんスマイル！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00015_00015-5-uniq-0067-00_start-card",
+            "text": "みことサマータイムを満喫しちゃお～～～っ♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00015_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00015_myself-001",
@@ -91708,6 +92014,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0004-00_start-card",
             "text": "これまでの軌跡を輝きに！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_skill-card",
+            "text": "夏に煌めく夏街すいせいですっ☆"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00018_00018-5-uniq-0068-00_start-card",
+            "text": "水鉄砲を空に掲げろぉ～！ぶっ放せぇ～！"
         }
     },
     {
@@ -101868,6 +102188,27 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "暑いぃ～、すいちゃん、このステージ暑いよぉ～……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "うおおおっ、みこが夏の太陽ぐらい盛り上げてやるぜ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+            "text": "もっともっとびしょ濡れになって、みこと夏のステージを楽しもぉ～～～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00015_00015-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00015_00015-to-00001",
@@ -102257,6 +102598,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0004-00_00018-to-00015",
             "text": "miCometで〜す！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "夏でもmiCometはぁ～～～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "うおぉぉいっ！みこに水鉄砲を向けんなぁ～！"
         }
     },
     {
@@ -104227,6 +104582,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "おっけ～♪頭から水ぶっかけてあげるっ☆"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "おらぁ～さくらみこ、やれんのかぁ～！？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00018_00015-to-00018",
         "data": {
             "id": "la-text_cv-live_dial_chr-00018_00015-to-00018",
@@ -104280,6 +104649,27 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0004-00_myself",
             "text": "進み続けるすいちゃんのこと、応援してくれると嬉しいです！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "ビジネスフレンドであることを、ここに誓います！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "狙いはみこち！おらぁ、ビショビショにしてやるぅ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+            "text": "暑ーーい！でも、楽しい～～～っ♪すいちゃんと夏を遊び尽くそぉ～～～！"
         }
     },
     {
@@ -125489,7 +125879,7 @@
         "id": "la-text_cv-live_dial_chr-04002_04002-to-04012",
         "data": {
             "id": "la-text_cv-live_dial_chr-04002_04002-to-04012",
-            "text": "ベーちゃん、キアラのダンス真似できるー？"
+            "text": "ベー、キアラのダンス真似できるー？"
         }
     },
     {

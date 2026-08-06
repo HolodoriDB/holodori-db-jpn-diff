@@ -1288,6 +1288,48 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_mission-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-1",
+            "text": "<color=#ff3bc8>スコアチャレンジイベント</color>は、イベント課題曲に挑戦してハイスコアを目指すイベントだよ！\n\nハイスコアのランキングに入賞したり、期間中にライブやミニゲームをプレイすると、イベントバッジを獲得できるよ！\n\nイベントバッジを集めると交換所でイベントメモリーなどのアイテムと交換できるよ！\n\nイベント課題曲はイベントごとに複数あるから、楽曲選択画面でチェックしてね！"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-2",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-2",
+            "text": "<color=#ff3bc8>合計ハイスコアランキング</color>は、イベント課題曲の期間限定スコアを合計した値に応じたランキングだよ！\n\nランキングに入賞すると、イベント限定称号などの報酬を獲得できるよ！\n\n※イベント課題曲では、イベント期間限定スコアと通常のスコアのどちらも保存されます。\n\n※詳細は［イベント］→［ランキング］→［合計ハイスコアランキング］をご確認ください。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-3",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-3",
+            "text": "イベント課題曲ごとに、<color=#ff3bc8>期間限定スコアを競うハイスコアランキング</color>もあるよ！\n\nランキングに入賞すると、イベント限定称号を獲得できるよ！\n\n※詳細は［イベント］→［ランキング］→［ハイスコアランキング］をご確認ください。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-4",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-4",
+            "text": "<color=#ff3bc8>イベントボーナス</color>を活用すると、より高いスコアを獲得できるよ！\n\nイベントボーナスには、ボーナス対象のメンバーを編成してイベント課題曲に挑戦すると、期間限定スコアがアップする<color=#ff3bc8>スコアボーナス</color>があるよ！\n\nスコアボーナスの対象のメンバーは、イベント課題曲ごとに変わるよ！\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-5",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-5",
+            "text": "<color=#ff3bc8>イベントボーナス</color>を活用して、より多くのイベントPtとイベントバッジを獲得しよう！\n\nイベントボーナスには、ライブのイベントPtとイベントバッジの獲得量がアップする<color=#ff3bc8>獲得ボーナス</color>もあるよ！\n\n獲得ボーナスには3種類あるよ！\n\n▼メンバーボーナス\n・対象のメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼ホロメンボーナス\n・対象のホロメンのメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼開花ボーナス\n・編成したメンバーの開花状況に応じて、ライブ挑戦時の獲得量アップ\n\nまた、イベントボーナスにはミニゲームのイベントPtとイベントバッジの獲得量がアップするボーナスもあるよ！\n\n▼ミニゲームボーナス\n・対象のミニゲームに挑戦すると獲得量アップ\n\n▼メンバーボーナス\n・対象のメンバーを所持しているだけで獲得量アップ\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-6",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-6",
+            "text": "イベントPtとイベントバッジの獲得量は、<color=#ff3bc8>スコアが高いほどアップ</color>するよ！\n\n▼イベントPt・イベントバッジ獲得について\n・オートライブでも獲得可能\n・消費するライブブーストが多いほど、獲得量アップ\n・プレイした楽曲の長さに応じて獲得量アップ"
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_nomal-description-1",
         "data": {
             "id": "la-tips-hint-marathon_nomal-description-1",

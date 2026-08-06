@@ -882,6 +882,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-description",
+            "text": "イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-name",
+            "text": "イベントバッジ"
+        }
+    },
+    {
         "id": "la-item-exchange-holomedal-description",
         "data": {
             "id": "la-item-exchange-holomedal-description",

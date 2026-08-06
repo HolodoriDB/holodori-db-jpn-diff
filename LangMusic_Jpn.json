@@ -1122,6 +1122,27 @@
         }
     },
     {
+        "id": "la-music_arranger-m0323",
+        "data": {
+            "id": "la-music_arranger-m0323",
+            "text": "キノシタ"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0324",
+        "data": {
+            "id": "la-music_arranger-m0324",
+            "text": "佐藤厚仁(Dream Monster)"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0325",
+        "data": {
+            "id": "la-music_arranger-m0325",
+            "text": "TAKU INOUE"
+        }
+    },
+    {
         "id": "la-music_arranger-m0326",
         "data": {
             "id": "la-music_arranger-m0326",
@@ -1160,6 +1181,20 @@
         "data": {
             "id": "la-music_arranger-m0337",
             "text": "KOH"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0346",
+        "data": {
+            "id": "la-music_arranger-m0346",
+            "text": "niki"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0347",
+        "data": {
+            "id": "la-music_arranger-m0347",
+            "text": "Naoden"
         }
     },
     {
@@ -2299,6 +2334,27 @@
         }
     },
     {
+        "id": "la-music_arranger_ruby-m0323",
+        "data": {
+            "id": "la-music_arranger_ruby-m0323",
+            "text": "きのした"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0324",
+        "data": {
+            "id": "la-music_arranger_ruby-m0324",
+            "text": "さとうあつひと"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0325",
+        "data": {
+            "id": "la-music_arranger_ruby-m0325",
+            "text": "たくいのうえ"
+        }
+    },
+    {
         "id": "la-music_arranger_ruby-m0326",
         "data": {
             "id": "la-music_arranger_ruby-m0326",
@@ -2337,6 +2393,20 @@
         "data": {
             "id": "la-music_arranger_ruby-m0337",
             "text": "こう"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0346",
+        "data": {
+            "id": "la-music_arranger_ruby-m0346",
+            "text": "にき"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0347",
+        "data": {
+            "id": "la-music_arranger_ruby-m0347",
+            "text": "なおでん"
         }
     },
     {
@@ -3537,6 +3607,27 @@
         }
     },
     {
+        "id": "la-music_composer-m0323",
+        "data": {
+            "id": "la-music_composer-m0323",
+            "text": "キノシタ"
+        }
+    },
+    {
+        "id": "la-music_composer-m0324",
+        "data": {
+            "id": "la-music_composer-m0324",
+            "text": "佐藤厚仁(Dream Monster)"
+        }
+    },
+    {
+        "id": "la-music_composer-m0325",
+        "data": {
+            "id": "la-music_composer-m0325",
+            "text": "TAKU INOUE, DECO*27"
+        }
+    },
+    {
         "id": "la-music_composer-m0326",
         "data": {
             "id": "la-music_composer-m0326",
@@ -3576,6 +3667,20 @@
         "data": {
             "id": "la-music_composer-m0337",
             "text": "佐藤貴文"
+        }
+    },
+    {
+        "id": "la-music_composer-m0346",
+        "data": {
+            "id": "la-music_composer-m0346",
+            "text": "niki"
+        }
+    },
+    {
+        "id": "la-music_composer-m0347",
+        "data": {
+            "id": "la-music_composer-m0347",
+            "text": "Naoden"
         }
     },
     {
@@ -4776,6 +4881,27 @@
         }
     },
     {
+        "id": "la-music_composer_ruby-m0323",
+        "data": {
+            "id": "la-music_composer_ruby-m0323",
+            "text": "きのした"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0324",
+        "data": {
+            "id": "la-music_composer_ruby-m0324",
+            "text": "さとうあつひと"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0325",
+        "data": {
+            "id": "la-music_composer_ruby-m0325",
+            "text": "たくいのうえ、でこにーな"
+        }
+    },
+    {
         "id": "la-music_composer_ruby-m0326",
         "data": {
             "id": "la-music_composer_ruby-m0326",
@@ -4815,6 +4941,20 @@
         "data": {
             "id": "la-music_composer_ruby-m0337",
             "text": "さとうたかふみ"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0346",
+        "data": {
+            "id": "la-music_composer_ruby-m0346",
+            "text": "にき"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0347",
+        "data": {
+            "id": "la-music_composer_ruby-m0347",
+            "text": "なおでん"
         }
     },
     {
@@ -6407,6 +6547,27 @@
         }
     },
     {
+        "id": "la-music_lyricist-m0323",
+        "data": {
+            "id": "la-music_lyricist-m0323",
+            "text": "キノシタ"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0324",
+        "data": {
+            "id": "la-music_lyricist-m0324",
+            "text": "星街すいせい"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0325",
+        "data": {
+            "id": "la-music_lyricist-m0325",
+            "text": "DECO*27"
+        }
+    },
+    {
         "id": "la-music_lyricist-m0326",
         "data": {
             "id": "la-music_lyricist-m0326",
@@ -6446,6 +6607,20 @@
         "data": {
             "id": "la-music_lyricist-m0337",
             "text": "佐藤貴文"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0346",
+        "data": {
+            "id": "la-music_lyricist-m0346",
+            "text": "niki"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0347",
+        "data": {
+            "id": "la-music_lyricist-m0347",
+            "text": "Luschka"
         }
     },
     {
@@ -7646,6 +7821,27 @@
         }
     },
     {
+        "id": "la-music_lyricist_ruby-m0323",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0323",
+            "text": "きのした"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0324",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0324",
+            "text": "ほしまちすいせい"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0325",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0325",
+            "text": "でこにーな"
+        }
+    },
+    {
         "id": "la-music_lyricist_ruby-m0326",
         "data": {
             "id": "la-music_lyricist_ruby-m0326",
@@ -7685,6 +7881,20 @@
         "data": {
             "id": "la-music_lyricist_ruby-m0337",
             "text": "さとうたかふみ"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0346",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0346",
+            "text": "にき"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0347",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0347",
+            "text": "るしゅか"
         }
     },
     {
@@ -8885,6 +9095,27 @@
         }
     },
     {
+        "id": "la-music_title-m0323",
+        "data": {
+            "id": "la-music_title-m0323",
+            "text": "きゅんきゅんみこきゅんきゅん♡"
+        }
+    },
+    {
+        "id": "la-music_title-m0324",
+        "data": {
+            "id": "la-music_title-m0324",
+            "text": "GHOST"
+        }
+    },
+    {
+        "id": "la-music_title-m0325",
+        "data": {
+            "id": "la-music_title-m0325",
+            "text": "シュガーラッシュ"
+        }
+    },
+    {
         "id": "la-music_title-m0326",
         "data": {
             "id": "la-music_title-m0326",
@@ -8924,6 +9155,20 @@
         "data": {
             "id": "la-music_title-m0337",
             "text": "美少女戦士まつりみっとZero"
+        }
+    },
+    {
+        "id": "la-music_title-m0346",
+        "data": {
+            "id": "la-music_title-m0346",
+            "text": "FACT"
+        }
+    },
+    {
+        "id": "la-music_title-m0347",
+        "data": {
+            "id": "la-music_title-m0347",
+            "text": "Infinity (Remastered)"
         }
     },
     {
@@ -10124,6 +10369,27 @@
         }
     },
     {
+        "id": "la-music_title_ruby-m0323",
+        "data": {
+            "id": "la-music_title_ruby-m0323",
+            "text": "きゅんきゅんみこきゅんきゅん"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0324",
+        "data": {
+            "id": "la-music_title_ruby-m0324",
+            "text": "ごーすと"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0325",
+        "data": {
+            "id": "la-music_title_ruby-m0325",
+            "text": "しゅがーらっしゅ"
+        }
+    },
+    {
         "id": "la-music_title_ruby-m0326",
         "data": {
             "id": "la-music_title_ruby-m0326",
@@ -10163,6 +10429,20 @@
         "data": {
             "id": "la-music_title_ruby-m0337",
             "text": "びしょうじょせんしまつりりみっとぜろ"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0346",
+        "data": {
+            "id": "la-music_title_ruby-m0346",
+            "text": "ふぁくと"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0347",
+        "data": {
+            "id": "la-music_title_ruby-m0347",
+            "text": "いんふぃにてぃりますたー"
         }
     },
     {
@@ -11363,6 +11643,27 @@
         }
     },
     {
+        "id": "la-singer_name-m0323",
+        "data": {
+            "id": "la-singer_name-m0323",
+            "text": "さくらみこ"
+        }
+    },
+    {
+        "id": "la-singer_name-m0324",
+        "data": {
+            "id": "la-singer_name-m0324",
+            "text": "星街すいせい"
+        }
+    },
+    {
+        "id": "la-singer_name-m0325",
+        "data": {
+            "id": "la-singer_name-m0325",
+            "text": "miComet"
+        }
+    },
+    {
         "id": "la-singer_name-m0326",
         "data": {
             "id": "la-singer_name-m0326",
@@ -11402,6 +11703,20 @@
         "data": {
             "id": "la-singer_name-m0337",
             "text": "夏色まつり"
+        }
+    },
+    {
+        "id": "la-singer_name-m0346",
+        "data": {
+            "id": "la-singer_name-m0346",
+            "text": "常闇トワ"
+        }
+    },
+    {
+        "id": "la-singer_name-m0347",
+        "data": {
+            "id": "la-singer_name-m0347",
+            "text": "赤井はあと"
         }
     },
     {
@@ -12602,6 +12917,27 @@
         }
     },
     {
+        "id": "la-singer_name_ruby-m0323",
+        "data": {
+            "id": "la-singer_name_ruby-m0323",
+            "text": "さくらみこ"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0324",
+        "data": {
+            "id": "la-singer_name_ruby-m0324",
+            "text": "ほしまちすいせい"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0325",
+        "data": {
+            "id": "la-singer_name_ruby-m0325",
+            "text": "みこめっとさくらみこほしまちすいせい"
+        }
+    },
+    {
         "id": "la-singer_name_ruby-m0326",
         "data": {
             "id": "la-singer_name_ruby-m0326",
@@ -12641,6 +12977,20 @@
         "data": {
             "id": "la-singer_name_ruby-m0337",
             "text": "なついろまつり"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0346",
+        "data": {
+            "id": "la-singer_name_ruby-m0346",
+            "text": "とこやみとわ"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0347",
+        "data": {
+            "id": "la-singer_name_ruby-m0347",
+            "text": "あかいはあと"
         }
     },
     {
