@@ -14,6 +14,48 @@
         }
     },
     {
+        "id": "la-mission_grp-marathon_event-relay-001",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-001",
+            "text": "イベントミッション"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-001-chapter-01",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-001-chapter-01",
+            "text": "イベントミッション(カリオペ)"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-001-chapter-02",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-001-chapter-02",
+            "text": "イベントミッション(あやめ)"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-001-chapter-03",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-001-chapter-03",
+            "text": "イベントミッション(オリー)"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-001-chapter-04",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-001-chapter-04",
+            "text": "イベントミッション(ルーナ)"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-001-chapter-05",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-001-chapter-05",
+            "text": "イベントミッション(伊那尓栖)"
+        }
+    },
+    {
         "id": "la-mission_grp-mission_pass-0001-daily",
         "data": {
             "id": "la-mission_grp-mission_pass-0001-daily",

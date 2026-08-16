@@ -49,6 +49,41 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00010-5-uniq-0069-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00010-5-uniq-0069-00-description",
+            "text": "2期生が2人以上で全員のテクニックが135%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00028-5-uniq-0070-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00028-5-uniq-0070-00-description",
+            "text": "4期生が2人以上で全員のパフォーマンスが135%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-03004-5-uniq-0073-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-03004-5-uniq-0073-00-description",
+            "text": "[attribute=happy]ハッピータイプ[/attribute]2人以上で全員のセンスが80%UP\n[attribute=happy]ハッピータイプ[/attribute]2人以上で全員のスコアサポート効果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04001-5-uniq-0071-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04001-5-uniq-0071-00-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で全員のセンスが80%UP\n[attribute=cute]キュートタイプ[/attribute]2人以上で全員のスコアサポート効果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04003-5-uniq-0072-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04003-5-uniq-0072-00-description",
+            "text": "Mythが2人以上で全員のセンスが135%UP"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

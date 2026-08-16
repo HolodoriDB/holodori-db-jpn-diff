@@ -10787,10 +10787,24 @@
         }
     },
     {
+        "id": "la-mission-marathon_event-marathon_live_play_count",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_live_play_count",
+            "text": "本チャプターのイベント課題曲を{0}回プレイしよう"
+        }
+    },
+    {
         "id": "la-mission-marathon_event-marathon_score_quantity",
         "data": {
             "id": "la-mission-marathon_event-marathon_score_quantity",
             "text": "イベントPtを{0}獲得しよう"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "text": "本チャプターのイベントPtを{0}獲得しよう"
         }
     },
     {

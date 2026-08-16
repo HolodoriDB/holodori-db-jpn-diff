@@ -1372,6 +1372,48 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_relay-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_relay-description-1",
+            "text": "<color=#ff3bc8>スポットライトイベント</color>は、一人ひとりのホロメンのチャプターに分かれて進行するよ！\n\nライブやミニゲームをプレイすると、チャプター期間ごとにイベントPtとイベントバッジを獲得できるよ！\n\n各チャプターのイベントPtを集めて、チャプターごとのストーリーを視聴しよう！\n\nまた、各チャプターのイベントバッジごとに、交換所でイベントメモリーなどのアイテムと交換できるよ！"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_relay-description-2",
+        "data": {
+            "id": "la-tips-hint-marathon_relay-description-2",
+            "text": "各チャプターごとに開催される<color=#ff3bc8>イベントPtランキング</color>は、チャプター期間中に獲得したイベントPtの累計値に応じたランキングだよ！\n\nランキングに入賞すると、イベント限定称号などの報酬を獲得できるよ！\n\n※詳細は［イベント］→［ランキング］→［イベントPtランキング］をご確認ください。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_relay-description-3",
+        "data": {
+            "id": "la-tips-hint-marathon_relay-description-3",
+            "text": "イベントPtとイベントバッジの獲得量は、<color=#ff3bc8>スコアが高いほどアップ</color>するよ！\n\n▼イベントPt・イベントバッジ獲得について\n・オートライブでも獲得可能\n・消費するライブブーストが多いほど、獲得量アップ\n・プレイした楽曲の長さに応じて獲得量アップ"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_relay-description-4",
+        "data": {
+            "id": "la-tips-hint-marathon_relay-description-4",
+            "text": "<color=#ff3bc8>イベントボーナス</color>を活用して、より多くのイベントPtとイベントバッジを獲得しよう！\n\nスポットライトイベントでは、チャプターごとにイベントボーナスの対象が変わるよ！\n\nイベントボーナスには、ライブのイベントPtとイベントバッジの獲得量がアップする<color=#ff3bc8>獲得ボーナス</color>があるよ！\n\n獲得ボーナスには3種類あるよ！\n\n▼メンバーボーナス\n・対象のメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼ホロメンボーナス\n・対象のホロメンのメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼開花ボーナス\n・編成したメンバーの開花状況に応じて、ライブ挑戦時の獲得量アップ\n\nまた、イベントボーナスにはミニゲームのイベントPtとイベントバッジの獲得量がアップするボーナスもあるよ！\n\n▼ミニゲームボーナス\n・対象のミニゲームに挑戦すると獲得量アップ\n\n▼メンバーボーナス\n・対象のメンバーを所持しているだけで獲得量アップ\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_relay-description-5",
+        "data": {
+            "id": "la-tips-hint-marathon_relay-description-5",
+            "text": "イベントボーナスを活用すると、スコアをアップさせることもできるよ！\n\nイベントボーナスには、ボーナス対象のメンバーを編成してイベント課題曲に挑戦すると、期間限定スコアがアップする<color=#ff3bc8>スコアボーナス</color>もあるよ！\n\nスコアボーナスの対象のメンバーは、イベント課題曲ごとに変わるよ！\nイベント課題曲はチャプターごとに変わるよ！\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_relay-description-6",
+        "data": {
+            "id": "la-tips-hint-marathon_relay-description-6",
+            "text": "各チャプターごとに、<color=#ff3bc8>期間限定スコアを競うハイスコアランキング</color>もあるよ！\n\nランキングに入賞すると、イベント限定称号を獲得できるよ！\n\nランキング対象のイベント課題曲は、楽曲選択画面でチェックしてね！\n\n※イベント課題曲では、イベント期間限定スコアと通常のスコアのどちらも保存されます。\n\n※詳細は［イベント］→［ランキング］→［ハイスコアランキング］をご確認ください。"
+        }
+    },
+    {
         "id": "la-tips-hint-mini_game_reward_up_stamina-description-1",
         "data": {
             "id": "la-tips-hint-mini_game_reward_up_stamina-description-1",

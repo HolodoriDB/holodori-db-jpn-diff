@@ -343,6 +343,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-detail",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-01",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-02",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-03",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-04",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-05",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00011_00011-5-uniq-0011-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00011_00011-5-uniq-0011-00_card-detail",
@@ -1351,6 +1399,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-detail",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-01",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-02",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-03",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-04",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-05",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0024-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0024-00_card-detail",
@@ -1927,6 +2023,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-detail",
+            "text": "【常夏のCrazy Dive オリー】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-01",
+            "text": "【常夏のCrazy Dive オリー】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-02",
+            "text": "【常夏のCrazy Dive オリー】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-03",
+            "text": "【常夏のCrazy Dive オリー】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-04",
+            "text": "【常夏のCrazy Dive オリー】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-05",
+            "text": "【常夏のCrazy Dive オリー】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-03005_03005-5-uniq-0037-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-03005_03005-5-uniq-0037-00_card-detail",
@@ -2215,6 +2359,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-detail",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-01",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-02",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-03",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-04",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-05",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-04002_04002-5-uniq-0043-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-04002_04002-5-uniq-0043-00_card-detail",
@@ -2308,6 +2500,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0044-00_card-potential-05",
             "text": "【ぽかぽかチャージなひととき 伊那尓栖】開花5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-detail",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-01",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-02",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-03",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-04",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-05",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】開花5"
         }
     },
     {
@@ -3117,6 +3357,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_skill-card",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_start-card",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00010_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00010_myself-001",
@@ -3621,6 +3875,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_skill-card",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_start-card",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00028_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00028_myself-001",
@@ -3957,6 +4225,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_skill-card",
+            "text": "【常夏のCrazy Dive オリー】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_start-card",
+            "text": "【常夏のCrazy Dive オリー】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-03004_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-03004_myself-001",
@@ -4125,6 +4407,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_skill-card",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_start-card",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-04001_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-04001_myself-001",
@@ -4178,6 +4474,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-04003_04003-5-uniq-0044-00_start-card",
             "text": "【ぽかぽかチャージなひととき 伊那尓栖】ライブ開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_skill-card",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_start-card",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】ライブ開始"
         }
     },
     {
@@ -8213,6 +8523,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00006-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00006-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】フブキ&あやめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00010-to-00006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00010-to-00006",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&フブキ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00006_00010-to-00006",
         "data": {
             "id": "la-name_cv-live_dial_chr-00006_00010-to-00006",
@@ -9214,6 +9538,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00007_03004-5-uniq-0073-00_00007-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_03004-5-uniq-0073-00_00007-to-03004",
+            "text": "【常夏のCrazy Dive オリー】まつり&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_03004-5-uniq-0073-00_03004-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_03004-5-uniq-0073-00_03004-to-00007",
+            "text": "【常夏のCrazy Dive オリー】オリー&まつり"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00007_03004-to-00007",
         "data": {
             "id": "la-name_cv-live_dial_chr-00007_03004-to-00007",
@@ -9421,6 +9759,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0010-00_myself",
             "text": "【隠世でのほほん、気ままな提灯 あやめ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00006-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00006-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】フブキ&あやめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00006",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&フブキ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00014",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&ミオ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00017",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&ころね"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00036",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&ルイ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00014-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00014-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】ミオ&あやめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00017-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00017-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】ころね&あやめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00036-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00036-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】ルイ&あやめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】SPスキル"
         }
     },
     {
@@ -10684,6 +11085,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00011-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00011-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ちょこ&ルーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00028-to-00011",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00028-to-00011",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&ちょこ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00011_00028-to-00011",
         "data": {
             "id": "la-name_cv-live_dial_chr-00011_00028-to-00011",
@@ -11563,6 +11978,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00012_00027-to-00012",
             "text": "トワ&スバル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00012-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00012-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】スバル&ルーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00028-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00028-to-00012",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&スバル"
         }
     },
     {
@@ -12469,6 +12898,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00013_03004-5-uniq-0073-00_00013-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00013_03004-5-uniq-0073-00_00013-to-03004",
+            "text": "【常夏のCrazy Dive オリー】AZKi&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00013_03004-5-uniq-0073-00_03004-to-00013",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00013_03004-5-uniq-0073-00_03004-to-00013",
+            "text": "【常夏のCrazy Dive オリー】オリー&AZKi"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00013_03004-to-00013",
         "data": {
             "id": "la-name_cv-live_dial_chr-00013_03004-to-00013",
@@ -12662,6 +13105,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00014_00007-to-00014",
             "text": "まつり&ミオ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00010-to-00014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00010-to-00014",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&ミオ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00014-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00014-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】ミオ&あやめ"
         }
     },
     {
@@ -15084,6 +15541,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00017_00007-to-00017",
             "text": "まつり&ころね"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00010-to-00017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00010-to-00017",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&ころね"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00017-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00017-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】ころね&あやめ"
         }
     },
     {
@@ -21926,6 +22397,69 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00011-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00011-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ちょこ&ルーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00012-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00012-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】スバル&ルーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00011",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00011",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&ちょこ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00012",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&スバル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00032",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&ぼたん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00034",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&ポルカ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00032-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00032-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ぼたん&ルーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00034-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00034-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ポルカ&ルーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】SPスキル"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00028_00028-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00028_00028-to-00001",
@@ -24250,6 +24784,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00028-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00028-to-00032",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&ぼたん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00032-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00032-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ぼたん&ルーナ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00032_00028-to-00032",
         "data": {
             "id": "la-name_cv-live_dial_chr-00032_00028-to-00032",
@@ -25038,6 +25586,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_00027-to-00034",
             "text": "トワ&ポルカ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00028-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00028-to-00034",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ルーナ&ポルカ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00034-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00034-to-00028",
+            "text": "【のんびり姫のおねだりビーチ ルーナ】ポルカ&ルーナ"
         }
     },
     {
@@ -26515,6 +27077,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00036_00007-to-00036",
             "text": "まつり&ルイ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00010-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00010-to-00036",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】あやめ&ルイ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00036-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00036-to-00010",
+            "text": "【鬼神流・ぷかぷかリゾート あやめ】ルイ&あやめ"
         }
     },
     {
@@ -29479,6 +30055,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03001-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03001-to-03004",
+            "text": "【常夏のCrazy Dive オリー】リス&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03004-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03004-to-03001",
+            "text": "【常夏のCrazy Dive オリー】オリー&リス"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03001_03004-to-03001",
         "data": {
             "id": "la-name_cv-live_dial_chr-03001_03004-to-03001",
@@ -30253,6 +30843,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03002_03003-to-03002",
             "text": "イオフィ&ムーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03002-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03002-to-03004",
+            "text": "【常夏のCrazy Dive オリー】ムーナ&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03004-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03004-to-03002",
+            "text": "【常夏のCrazy Dive オリー】オリー&ムーナ"
         }
     },
     {
@@ -31429,6 +32033,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0036-00_myself",
             "text": "【Z nonstop talker オリー】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00007-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00007-to-03004",
+            "text": "【常夏のCrazy Dive オリー】まつり&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00013-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00013-to-03004",
+            "text": "【常夏のCrazy Dive オリー】AZKi&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03001-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03001-to-03004",
+            "text": "【常夏のCrazy Dive オリー】リス&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03002-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03002-to-03004",
+            "text": "【常夏のCrazy Dive オリー】ムーナ&オリー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00007",
+            "text": "【常夏のCrazy Dive オリー】オリー&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00013",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00013",
+            "text": "【常夏のCrazy Dive オリー】オリー&AZKi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03001",
+            "text": "【常夏のCrazy Dive オリー】オリー&リス"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03002",
+            "text": "【常夏のCrazy Dive オリー】オリー&ムーナ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
+            "text": "【常夏のCrazy Dive オリー】SPスキル"
         }
     },
     {
@@ -33417,6 +34084,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03006_04002-to-03006",
             "text": "キアラ&レイネ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_04003-5-uniq-0072-00_03006-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_04003-5-uniq-0072-00_03006-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】レイネ&伊那尓栖"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_04003-5-uniq-0072-00_04003-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_04003-5-uniq-0072-00_04003-to-03006",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&レイネ"
         }
     },
     {
@@ -36136,6 +36817,69 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04002",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&キアラ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04003",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&伊那尓栖"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04007",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04014",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&ビジュー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04002-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04002-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】キアラ&カリオペ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04003-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04003-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】伊那尓栖&カリオペ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04007-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04007-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】IRyS&カリオペ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04014-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04014-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】ビジュー&カリオペ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】SPスキル"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04001_04001-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-04001_04001-to-00001",
@@ -36896,6 +37640,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04002_04001-5-uniq-0042-00_04001-to-04002",
             "text": "【Reaper’s death flow カリオペ】カリオペ&キアラ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04001-to-04002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04001-to-04002",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&キアラ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04002-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04002-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】キアラ&カリオペ"
         }
     },
     {
@@ -37676,6 +38434,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04001-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04001-to-04003",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&伊那尓栖"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04003-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04003-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】伊那尓栖&カリオペ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04003_04001-to-04003",
         "data": {
             "id": "la-name_cv-live_dial_chr-04003_04001-to-04003",
@@ -37715,6 +38487,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0044-00_myself",
             "text": "【ぽかぽかチャージなひととき 伊那尓栖】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_03006-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_03006-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】レイネ&伊那尓栖"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-03006",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&レイネ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04007",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04012",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&ベールズ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04014",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&ビジュー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04007-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04007-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】IRyS&伊那尓栖"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04012-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04012-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】ベールズ&伊那尓栖"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04014-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04014-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】ビジュー&伊那尓栖"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】SPスキル"
         }
     },
     {
@@ -38446,6 +39281,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04001-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04001-to-04007",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04007-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04007-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】IRyS&カリオペ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04007_04001-to-04007",
         "data": {
             "id": "la-name_cv-live_dial_chr-04007_04001-to-04007",
@@ -38457,6 +39306,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04007_04002-to-04007",
             "text": "キアラ&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04003-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04003-to-04007",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04007-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04007-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】IRyS&伊那尓栖"
         }
     },
     {
@@ -40011,6 +40874,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04012_04002-to-04012",
             "text": "キアラ&ベールズ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04003-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04003-to-04012",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&ベールズ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04012-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04012-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】ベールズ&伊那尓栖"
         }
     },
     {
@@ -41582,6 +42459,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04001-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04001-to-04014",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】カリオペ&ビジュー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04014-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04014-to-04001",
+            "text": "【ビーチに刺さるReaper's Spike カリオペ】ビジュー&カリオペ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04014_04001-to-04014",
         "data": {
             "id": "la-name_cv-live_dial_chr-04014_04001-to-04014",
@@ -41593,6 +42484,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04014_04002-to-04014",
             "text": "キアラ&ビジュー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04003-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04003-to-04014",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】伊那尓栖&ビジュー"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04014-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04014-to-04003",
+            "text": "【潮騒の記憶をたどって 伊那尓栖】ビジュー&伊那尓栖"
         }
     },
     {
@@ -88937,6 +89842,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-detail",
+            "text": "あぁ～～～、気持ちいいぃ～～～っ♪\nこの前も海に行ったけど、やっぱ浮き輪でプカプカするのは最高だねぇ～\nはあ～～～、このまま、ず～っとダラダラしてたぁ～い……\nん～？かき氷ぃ～？……かき氷！？もちろん食べるぅ～～～っ♪うん、早く行こっ♪\nんしょ、んしょ……うぅ、なかなか浮き輪が進まない～っ、ムカチキィーーーっ！\n……え？あ、そっか！浮き輪から降りて歩けばいいのか！\nえへへへへ……よいしょっと。さあ、早く行こっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-get",
+            "text": "最後まで余たちと盛り上がってくれるぅ～？\nえへへ、余と夏の約束だよっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-01",
+            "text": "余の水着、どう～？似合ってるかな～？……えへへっ、ありがとぉ～っ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-02",
+            "text": "わぁ〜、かき氷だぁ～♪あむ……うあぁぁぁ～、頭キィ～～～ンってなったぁっ"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-03",
+            "text": "ねえ、待って！余、気づいちゃったっ。ビーチボール膨らませれば、枕になるじゃん……っ"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-04",
+            "text": "はぁ、はぁ、ぜんっぜん膨らまない……え？……空気入れあったの！？言ってよぉ～、もぉ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0069-00_card-potential-05",
+            "text": "できたぁ～～～♪ねえねえ、ビーチボール持って、またプカプカしに行こぉ～～～♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00011_00011-5-uniq-0011-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00011_00011-5-uniq-0011-00_card-detail",
@@ -89966,6 +90920,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-detail",
+            "text": "んなぁぁぁ～～～、いっぱいのんびりできたし、そろそろ海で遊びたいのらねぇ～\nというわけで、浮き輪を膨らませてほしいのらぁ～～～\n……え？空気入れがないのら？大丈夫大丈夫♪浮き輪ぐらい簡単に膨らませられるのらよ？\nんなたん、ビニールプールを膨らませたことがあるから、コツを教えてあげるのら！\nいいのら？こうやって、思いっきりほっぺに空気を溜めて……プクゥ～～～って！わかったのら？それじゃよろしくなのらぁ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-get",
+            "text": "夏の暑さを、みんなで吹き飛ばすのら！\nいくのらよ？んなあああ～～～いっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-01",
+            "text": "じゃ～ん、この水着かわいいでしょ～？夏のプリンセスの登場なのらよ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-02",
+            "text": "海でプカプカするの気持ちいいのらぁ～～～……ふぃぃぃ～～～～……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-03",
+            "text": "んなたんが流されないように、ちゃんと見守ってて偉いのら！ほめてつかわすのら〜♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-04",
+            "text": "わっぷっ！？んなたんに水をかけたのらね……？この！この！うにゃ〜！うなうな！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0070-00_card-potential-05",
+            "text": "今日は楽しかったのらね～♪一緒に夏の思い出を作れて嬉しかったのらよ♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0024-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0024-00_card-detail",
@@ -90554,6 +91557,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-detail",
+            "text": "ねぇねぇ、すごいよ！魚いっぱい！サンゴも超きれー！\nあっ、オリーカラーの魚いたーっ！\n……って、ちょっとー、なんでオリーのことばっか見てるのー？\nもしかして、オリーの水着姿に目を奪われちゃった？いやんっ♡\nこの水着、前に先輩たちと買いにいったときのやつでー……\nあれ、その話じゃない？あははっ、ごめんごめーん。潜水早泳ぎ対決するって話だったよね？\nよし、やろう！準備はいい？位置についてーー、よーい、スターーート！！！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-get",
+            "text": "夏はまだまだこれからぁー！！\nもっとクレイジーになろぉー！！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-01",
+            "text": "水着ゾンビ参上ーー！似合ってるでしょ？……ね！？そう思うよね！？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-02",
+            "text": "ま、まずい！オリーの足取れちゃった！沈んじゃうー！待て待てーー！！！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-03",
+            "text": "次は水中鬼ごっこして〜、その次、水中睨めっこね！よーし、オリーについてこーーい！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-04",
+            "text": "うんうん、たしかに休憩もしないとねー。じゃあ、浮き輪の上で！一緒に乗る〜？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03004_03004-5-uniq-0073-00_card-potential-05",
+            "text": "また一緒に来たい！いい！？ダメって言ったら、食べちゃうぞ！"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-03005_03005-5-uniq-0037-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-03005_03005-5-uniq-0037-00_card-detail",
@@ -90848,6 +91900,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-detail",
+            "text": "アターーーック！フゥー、決まった〜〜！\nこれでマッチポイント。あと1点であたしの勝ちだね\n……って、ヘイヘーイ？さっきの威勢はどこいった？このまま情けなく負けちゃっていいの？\n……お、目がマジになったね。ふふっ、メラメラした表情、最高にクールだよ。\nその顔見てると、あたしも超たぎってくる！\nこの前やったビーチでのライブ。あの興奮に負けないくらい、白熱したバトルにしようっ！\nBlah,Blah!!  かませー！！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-get",
+            "text": "夏バテなんてしてたら、魂刈り取っちゃうよ！\nさぁ、ぶちかませ〜〜！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-01",
+            "text": "死神サーブ、くらえ……おっとと！？はは、ごめん、からぶった……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-02",
+            "text": "スタイリッシュでセクシーな水着！これぞ、かっこいいオペでしょ？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-03",
+            "text": "え、あたし上手い？へへっ、嬉しいなぁ〜……って、褒めて隙作ろうとするのズルいよ！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-04",
+            "text": "マジでいい勝負……！あたしたち、バイブス合うみたいだね。最高のライバルになれそう♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04001_04001-5-uniq-0071-00_card-potential-05",
+            "text": "イェーイ、カリオペの勝ちだよ！どう、悔しい？じゃあまた一緒にやろうよ。約束♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-04002_04002-5-uniq-0043-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-04002_04002-5-uniq-0043-00_card-detail",
@@ -90943,6 +92044,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0044-00_card-potential-05",
             "text": "その……よかったら、今度ゆっくりお話しない？縁側で日向ぼっこしながら……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-detail",
+            "text": "WAH……みてみて、貝殻たくさん落ちてるよ？どれもカラフルできれいだなぁ\nおぉ、この貝殻、トゲトゲしてておもしろい……髪飾りにしたらいい感じかもね\nどう、かわいい？……ちょっと、真面目な顔で頷かないでよ〜。恥ずかしくなっちゃう\nううん、なんでもない。さあ、海入ろっ、海\n前に来た時はお散歩メインだったから、今日はちょっと入ってみたい気分なんだ\n冷たいかなぁ、ドキドキ。ほら、一緒にいこ？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-get",
+            "text": "夏ってあっという間に終わっちゃう……\nだから、一瞬一瞬を大切にしたい"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-01",
+            "text": "この水着、似合うかな？気に入ってくれたら嬉しいな……♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-02",
+            "text": "う〜ん、お魚さんいなそうだね……タコはここにいるけど？ねぇ〜、笑ってよぉ〜"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-03",
+            "text": "もう少し、深いところまで行ってみたいっ。でもちょっとこわいから、手つかんでて欲しいな"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-04",
+            "text": "大丈夫？喉乾いてない……？お水買ってきてるから、欲しくなったら言ってね♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04003_04003-5-uniq-0072-00_card-potential-05",
+            "text": "今度来たら、また違う貝殻みつかるかも。つ、つまりそのぉ……次も一緒に来たいな"
         }
     },
     {
@@ -91152,7 +92302,7 @@
         "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0053-00_card-get",
         "data": {
             "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0053-00_card-get",
-            "text": "全員ビブーに夢中にしてやる！\nキラキラ～古石♪"
+            "text": "みんなからBiboo税を徴収してやるぞー！\nキラキラ～古石♪"
         }
     },
     {
@@ -91765,6 +92915,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_skill-card",
+            "text": "夏だけにこん『なつ』きりー！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00010_00010-5-uniq-0069-00_start-card",
+            "text": "余～だよっ♪夏をいっぱい楽しんじゃお～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00010_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00010_myself-001",
@@ -92269,6 +93433,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_skill-card",
+            "text": "常夏プリンセスタイムなのらっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00028_00028-5-uniq-0070-00_start-card",
+            "text": "水鉄砲の準備はいいのら？撃てぇ～なのら！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00028_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00028_myself-001",
@@ -92605,6 +93783,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_skill-card",
+            "text": "クククククレイジー、ホットサマーーーーッ！！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03004_03004-5-uniq-0073-00_start-card",
+            "text": "夏だ夏だー！腕取れちゃうくらい、はしゃいじゃえーー！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-03004_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-03004_myself-001",
@@ -92773,6 +93965,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_skill-card",
+            "text": "刻め！サマー・デット・ビート！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04001_04001-5-uniq-0071-00_start-card",
+            "text": "準備はいい！？暑さなんてぶっとばしていこうぜ！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-04001_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-04001_myself-001",
@@ -92826,6 +94032,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-04003_04003-5-uniq-0044-00_start-card",
             "text": "みんなの世界に、私たちが色を塗れたらな♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_skill-card",
+            "text": "楽しいサマータイム……つまり、TAKO TIMEっ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04003_04003-5-uniq-0072-00_start-card",
+            "text": "夏を、熱気を、絆を……みんなと一緒に感じたい"
         }
     },
     {
@@ -96861,6 +98081,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00006-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00006-to-00010",
+            "text": "余様の登場じゃ！皆の者、控えおろうっ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00010-to-00006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00006_00010-5-uniq-0069-00_00010-to-00006",
+            "text": "あははっ！魚だけに、うおーってか～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00006_00010-to-00006",
         "data": {
             "id": "la-text_cv-live_dial_chr-00006_00010-to-00006",
@@ -97862,6 +99096,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00007_03004-5-uniq-0073-00_00007-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_03004-5-uniq-0073-00_00007-to-03004",
+            "text": "オリー、ちゃんと日焼け止め塗った？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_03004-5-uniq-0073-00_03004-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_03004-5-uniq-0073-00_03004-to-00007",
+            "text": "あはははっ、なったなった〜。何回言わせんだよ〜"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00007_03004-to-00007",
         "data": {
             "id": "la-text_cv-live_dial_chr-00007_03004-to-00007",
@@ -98069,6 +99317,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0010-00_myself",
             "text": "ドキドキとありがとうを伝えられるよう、余頑張るからね！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00006-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00006-to-00010",
+            "text": "イェーイッ♪みんな、夏を楽しんでるぅ～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00006",
+            "text": "ビーチで魚がビッチビチッ！なんちゃって♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00014",
+            "text": "うぅ〜ミオちゃ～ん、暑いよぉ～～～……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00017",
+            "text": "はいっ！こおねに水鉄砲プシャーってしていいっ？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00010-to-00036",
+            "text": "ルイちゃ～ん！余、水着着ちゃったぁ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00014-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00014-to-00010",
+            "text": "余は、今からキンッキンに冷えたお水を飲みまぁ～すっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00017-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00017-to-00010",
+            "text": "あははっ！これは彼岸花の刺繍だよぉ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00036-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_00036-to-00010",
+            "text": "えへへ、水の演出見てたらかかっちゃった……♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
+            "text": "最後まで余たちと盛り上がってくれるぅ～？えへへ、余と夏の約束だよっ♪"
         }
     },
     {
@@ -99332,6 +100643,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00011-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00011-to-00028",
+            "text": "びしょ濡れのんなたんが〜、見たい人ぉ～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00028-to-00011",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00011_00028-5-uniq-0070-00_00028-to-00011",
+            "text": "これ、つけてみて？ぜーったいかわいいからぁ～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00011_00028-to-00011",
         "data": {
             "id": "la-text_cv-live_dial_chr-00011_00028-to-00011",
@@ -100211,6 +101536,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00012_00027-to-00012",
             "text": "トワ、それはフリか？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00012-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00012-to-00028",
+            "text": "お、ルーナ！そのサングラス、めっちゃいいじゃん！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00028-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00028-5-uniq-0070-00_00028-to-00012",
+            "text": "うぉいっ！勝手に任命すんじゃねぇ～～～！！"
         }
     },
     {
@@ -101117,6 +102456,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00013_03004-5-uniq-0073-00_00013-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00013_03004-5-uniq-0073-00_00013-to-03004",
+            "text": "オリー、汗すご〜い。良かったら、このタオル使って？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00013_03004-5-uniq-0073-00_03004-to-00013",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00013_03004-5-uniq-0073-00_03004-to-00013",
+            "text": "私はなんにもしてないんだけどな……あはは"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00013_03004-to-00013",
         "data": {
             "id": "la-text_cv-live_dial_chr-00013_03004-to-00013",
@@ -101310,6 +102663,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00014_00007-to-00014",
             "text": "そろそろまつりのパートだよ！？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00010-to-00014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00010-to-00014",
+            "text": "あははっ、抱きついたらもっと暑くなるでしょ～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00014-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00014_00010-5-uniq-0069-00_00014-to-00010",
+            "text": "みんな～、こまめにお水飲まないとダメだからねぇ～？"
         }
     },
     {
@@ -103732,6 +105099,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00017_00007-to-00017",
             "text": "こぉねたちに、注目注目っ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00010-to-00017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00010-to-00017",
+            "text": "いいよぉ～♪ドーンとこぉ～い！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00017-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00017_00010-5-uniq-0069-00_00017-to-00010",
+            "text": "わあ～！？あやめるの胸が血に染まってるぅ～！？"
         }
     },
     {
@@ -110574,6 +111955,69 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00011-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00011-to-00028",
+            "text": "おいおいおい、そのホースをこっちに向けんなぁ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00012-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00012-to-00028",
+            "text": "もっと褒めるところがあるだろぉ～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00011",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00011",
+            "text": "ちょこてんてー？その浮き輪はなんなのら……？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00012",
+            "text": "しゅばをんなたん専属のかき氷係に任命なのらっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00032",
+            "text": "わっぷ！？水鉄砲はずるいのら～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00028-to-00034",
+            "text": "スイカ割りがやりてぇ～のらねぇ～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00032-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00032-to-00028",
+            "text": "ぷりちー水着で、みんなを悩殺なのら♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00034-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_00034-to-00028",
+            "text": "頭が高いのら。跪いてお願いするのらよ～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself",
+            "text": "夏の暑さを、みんなで吹き飛ばすのら！いくのらよ？んなあああ～～～いっ♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00028_00028-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00028_00028-to-00001",
@@ -112898,6 +114342,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00028-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00028-to-00032",
+            "text": "イェーイ、命中～！まだまだいくぞ、それそれっ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00032-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00028-5-uniq-0070-00_00032-to-00028",
+            "text": "あはははは！みんな、んなたんに釘付けじゃん！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00032_00028-to-00032",
         "data": {
             "id": "la-text_cv-live_dial_chr-00032_00028-to-00032",
@@ -113686,6 +115144,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_00027-to-00034",
             "text": "トワ様の大好き、頂きました〜！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00028-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00028-to-00034",
+            "text": "誰かスイカを持ってこーい！姫がご所望だぁ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00034-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00028-5-uniq-0070-00_00034-to-00028",
+            "text": "そこのマブ～イ水着のお姫様？ポルカと歌わないかい♪"
         }
     },
     {
@@ -115163,6 +116635,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00036_00007-to-00036",
             "text": "あはははっ♪仕方ないなぁ～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00010-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00010-to-00036",
+            "text": "かわいいーっ♪めちゃくちゃセクシーだよぉ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00036-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00010-5-uniq-0069-00_00036-to-00010",
+            "text": "あやめちゃん、なんで濡れてるの……！？"
         }
     },
     {
@@ -118127,6 +119613,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03001-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03001-to-03004",
+            "text": "オリーまた泣いてる〜、よしよし〜♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03004-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03004-5-uniq-0073-00_03004-to-03001",
+            "text": "む、むわ……イヒヒッ、なに言ってるのオリー！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03001_03004-to-03001",
         "data": {
             "id": "la-text_cv-live_dial_chr-03001_03004-to-03001",
@@ -118901,6 +120401,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03002_03003-to-03002",
             "text": "よっぴーとなら絶対だよ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03002-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03002-to-03004",
+            "text": "ねぇ、オリー？なんでコソコソ、ついてくるの？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03004-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03004-5-uniq-0073-00_03004-to-03002",
+            "text": "へっ！？ちょ、こらこら！……あ、上着だけ脱ぐのね"
         }
     },
     {
@@ -120077,6 +121591,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0036-00_myself",
             "text": "私に勇気をくれてありがとう……みんな、愛してるぅ～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00007-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00007-to-03004",
+            "text": "もちろん！でも、まつり先輩にもっと塗って欲しいぃ〜♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00013-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_00013-to-03004",
+            "text": "AZKi先輩、優しすぎるっ！好きになっちゃうよ〜！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03001-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03001-to-03004",
+            "text": "だってみんなの歓声が……うぅ、素敵な夏をありがとぉ〜……！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03002-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03002-to-03004",
+            "text": "ぎくっ……あ〜、バレたぁ〜！お水かけたげようと思ったのにぃ〜！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00007",
+            "text": "オリーの水着、かわいい！？メロメロになった！？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00013",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-00013",
+            "text": "や〜ん、水鉄砲撃たないで〜！ビショビショになっちゃいます〜♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03001",
+            "text": "あつーーーーーい！！むわんむわんするーーー！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_03004-to-03002",
+            "text": "はぁ、はぁ、汗やばーい。もう脱いじゃおー"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
+            "text": "夏はまだまだこれからぁー！！もっとクレイジーになろぉー！！"
         }
     },
     {
@@ -122065,6 +123642,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03006_04002-to-03006",
             "text": "私も好きよ。いつまでも仲良くしてね♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_04003-5-uniq-0072-00_03006-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_04003-5-uniq-0072-00_03006-to-04003",
+            "text": "うちのイナは、暑さになんて負けないぞぉ〜！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_04003-5-uniq-0072-00_04003-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_04003-5-uniq-0072-00_04003-to-03006",
+            "text": "ふふっ、イナの帽子が飛ばないように押さえてるの〜"
         }
     },
     {
@@ -124784,6 +126375,69 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04002",
+            "text": "マジ暑すぎ！！体から火が出そうだよ……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04003",
+            "text": "あ〜、喉乾いた！一緒に飲み物持ってこようか、イナ？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04007",
+            "text": "あれ、おかしいな……水、出なくなったんだけど……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04001-to-04014",
+            "text": "ビブー？なに、にやにやこっちみてるの？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04002-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04002-to-04001",
+            "text": "サンキュ！今日のために筋トレ頑張ったんだ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04003-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04003-to-04001",
+            "text": "イナ……忘れられない夏にしよう！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04007-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04007-to-04001",
+            "text": "ヘイ！ジロジロ見過ぎだよ、IRyS！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04014-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_04014-to-04001",
+            "text": "はははは、お子ちゃまにはまだ早いよ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
+            "text": "夏バテなんてしてたら、魂刈り取っちゃうよ！さぁ、ぶちかませ〜〜！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04001_04001-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-04001_04001-to-00001",
@@ -125544,6 +127198,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04002_04001-5-uniq-0042-00_04001-to-04002",
             "text": "あら～、いつになく甘えん坊さんだね♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04001-to-04002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04001-to-04002",
+            "text": "カリ〜、近くでもっと温めてあげよっか〜？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04002-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04002_04001-5-uniq-0071-00_04002-to-04001",
+            "text": "はぁ〜ん、カリの水着姿、かっこよすぎる〜♪"
         }
     },
     {
@@ -126324,6 +127992,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04001-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04001-to-04003",
+            "text": "ふふっ、ありがと。カリはいつも優しいね♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04003-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04001-5-uniq-0071-00_04003-to-04001",
+            "text": "カリやみんなと、楽しい思い出たくさん作りたい……！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04003_04001-to-04003",
         "data": {
             "id": "la-text_cv-live_dial_chr-04003_04001-to-04003",
@@ -126363,6 +128045,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0044-00_myself",
             "text": "私の愛と応援がTakodachiのみんなに届きますように……大好き！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_03006-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_03006-to-04003",
+            "text": "そ、そうだぁ……！ボコボコにするぞぉ〜……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-03006",
+            "text": "ねぇ？なんで私の頭ずっと触ってるの……？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04007",
+            "text": "私のこといつでも頼ってね、IRyS……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04012",
+            "text": "3、2、1で放水だからね、べー？いくよ、3、2……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04003-to-04014",
+            "text": "みんなの汗、キラキラ光ってて素敵……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04007-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04007-to-04003",
+            "text": "ちょ、わざわざのぞきこまないでいいってばぁ〜……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04012-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04012-to-04003",
+            "text": "それ、手繋ぎたいだけでしょ、べー？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04014-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_04014-to-04003",
+            "text": "ふふっ、おもしろいけど、ちゃんと帰ってくるかな……？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
+            "text": "夏ってあっという間に終わっちゃう……だから、一瞬一瞬を大切にしたい"
         }
     },
     {
@@ -127094,6 +128839,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04001-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04001-to-04007",
+            "text": "あははは、ホース踏んでるよ〜？も〜、PONなんだから〜"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04007-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04001-5-uniq-0071-00_04007-to-04001",
+            "text": "黒い水着って、セクシーだよね〜♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04007_04001-to-04007",
         "data": {
             "id": "la-text_cv-live_dial_chr-04007_04001-to-04007",
@@ -127105,6 +128864,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04007_04002-to-04007",
             "text": "なんでよ！変なこと言わないから！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04003-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04003-to-04007",
+            "text": "イナぁ……♪じゃ、暑いのなんとかしてぇ〜"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04007-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04003-5-uniq-0072-00_04007-to-04003",
+            "text": "水着姿もまたいいね〜♪さて、帽子の下はどんな顔かなぁ？"
         }
     },
     {
@@ -128659,6 +130432,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04012_04002-to-04012",
             "text": "そんなの簡単さ！見てみて～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04003-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04003-to-04012",
+            "text": "発射〜〜っ！いぇ〜〜〜〜〜い！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04012-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_04003-5-uniq-0072-00_04012-to-04003",
+            "text": "水着かわいすぎ罪で逮捕！直ちに拘束します！"
         }
     },
     {
@@ -130230,6 +132017,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04001-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04001-to-04014",
+            "text": "ひひひっ、くらえカリ！放水開始！とりゃ〜〜！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04014-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04001-5-uniq-0071-00_04014-to-04001",
+            "text": "カリ〜。そのサングラス、かけさせて〜"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04014_04001-to-04014",
         "data": {
             "id": "la-text_cv-live_dial_chr-04014_04001-to-04014",
@@ -130241,6 +132042,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04014_04002-to-04014",
             "text": "みんなのペンライトに見惚れちゃった♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04003-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04003-to-04014",
+            "text": "イェアアア！でも、キラキラならビジューも負けなーい！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04014-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04003-5-uniq-0072-00_04014-to-04003",
+            "text": "その帽子、ブーメランにして飛ばしていい？"
         }
     },
     {
@@ -130317,7 +132132,7 @@
         "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0053-00_myself",
         "data": {
             "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0053-00_myself",
-            "text": "全員ビブーに夢中にしてやる！キラキラ～古石♪"
+            "text": "みんなからBiboo税を徴収してやるぞー！キラキラ～古石♪"
         }
     },
     {
@@ -136736,7 +138551,7 @@
         "id": "la-text_cv-park_call_chr-03004_area-01",
         "data": {
             "id": "la-text_cv-park_call_chr-03004_area-01",
-            "text": "ピンポンパンポ～ン♪\nゾンばんはー！みなさーん、ハーモニーガーデンはエンジョイしてるー！？\nスーパかわいいゾンビアイドル！クククククレイジーオリーでーす！\nみんなはトコホロロにはもう来てくれたかな！？\nあ、トコホロロは、オリー達ID2期生が用意したお店のことだよ！\nここではなーんと！ホロメンカラーのペンライトを売ってまーす！\nこれはもう買うしかないよね！というわけで、\nオリーは絶賛全員分のペンライトをコンプリートしようと奮闘中です！\nライブ用、部屋に飾る用、保管用の3セット分を集めるつもりだよー！\nあ、でも、みんなは無理しない範囲で集めてね？\nオリーとの約束です！\nそれでは、おつクレイジー！ばいばーい！"
+            "text": "ピンポンパンポ～ン♪\nゾンばんはー！みなさーん、ハーモニーガーデンはエンジョイしてるー！？\nスーパかわいいゾンビアイドル！クククククレイジー・オリーでーす！\nみんなはトコホロロにはもう来てくれたかな！？\nあ、トコホロロは、オリー達ID2期生が用意したお店のことだよ！\nここではなーんと！ホロメンカラーのペンライトを売ってまーす！\nこれはもう買うしかないよね！というわけで、\nオリーは絶賛全員分のペンライトをコンプリートしようと奮闘中です！\nライブ用、部屋に飾る用、保管用の3セット分を集めるつもりだよー！\nあ、でも、みんなは無理しない範囲で集めてね？\nオリーとの約束です！\nそれでは、おつクレイジー！ばいばーい！"
         }
     },
     {
