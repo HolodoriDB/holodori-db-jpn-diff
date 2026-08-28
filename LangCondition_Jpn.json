@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+            "text": "10月以降毎月リセット"
+        }
+    },
+    {
         "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
         "data": {
             "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
@@ -116,6 +123,13 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "メインクエスト 1章4話クリアで解放"
+        }
+    },
+    {
+        "id": "la-cd-perm-a01-chase",
+        "data": {
+            "id": "la-cd-perm-a01-chase",
+            "text": "くらやみチェイス"
         }
     },
     {
@@ -298,6 +312,20 @@
         "data": {
             "id": "la-cd-quest-area-a01-28-unlock-description",
             "text": "クエストやライブをプレイしよう"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29",
+        "data": {
+            "id": "la-cd-quest-area-a01-29",
+            "text": "ハーモニーガーデンのメインクエストEP24をクリアで解放"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-29-description",
+            "text": "ハーモニーガーデンのメインクエストEP24をクリアで解放できます"
         }
     },
     {
@@ -501,6 +529,13 @@
         "data": {
             "id": "la-locktestdesc-cd-quest-area-a01-03",
             "text": "メインクエストを進めることで解放できます"
+        }
+    },
+    {
+        "id": "la-music_lock_description-m0301",
+        "data": {
+            "id": "la-music_lock_description-m0301",
+            "text": "解放条件：メインクエスト2章クリア"
         }
     },
     {

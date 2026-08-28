@@ -9835,6 +9835,48 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+            "text": "{0}回鍵を使った"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+            "text": "{0}回レーザーギミックを解除した"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+            "text": "{0}回捕まえられた"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+            "text": "束縛系がお好き？"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+            "text": "{0}回捕まえた"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_win_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_win_count-description",
+            "text": "{0}回勝利"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
         "data": {
             "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
@@ -10140,6 +10182,13 @@
         "data": {
             "id": "la-mission-achievement-common-increment_login_count-description",
             "text": "{0}日ログイン"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+            "text": "{0}回プレイ"
         }
     },
     {
@@ -10654,6 +10703,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+            "text": "くらやみチェイスで{0}回鍵を使おう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+            "text": "くらやみチェイスで{0}回拘束しよう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+            "text": "くらやみチェイスで{0}回勝利しよう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+            "text": "ライブを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+            "text": "くらやみチェイスを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+            "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+            "text": "全てのミッションを完了しよう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+            "text": "みんなでライブを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+            "text": "ホロメンからプレゼントを{0}回受け取ろう"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+            "text": "ホロワークを{0}回完了しよう"
+        }
+    },
+    {
         "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
         "data": {
             "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -10979,6 +11098,181 @@
         "id": "la-mission-mission_pass-0001-weekly-increment_work_start_count-name",
         "data": {
             "id": "la-mission-mission_pass-0001-weekly-increment_work_start_count-name",
+            "text": "ホロワークを{0}回開始しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+            "text": "メンバーのLvを{0}回強化しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+            "text": "隠しトレジャーを{0}個拾おう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+            "text": "ライブを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+            "text": "ミニゲームを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+            "text": "みんなでライブを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+            "text": "ホロメンからプレゼントを{0}回受け取ろう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+            "text": "デイリークエストを{0}回クリアしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+            "text": "ホロワークを{0}回開始しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+            "text": "ねぽらぼマートの施設Lvを{0}回上げる"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+            "text": "ゲーマーズステーションの施設Lvを{0}回上げる"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+            "text": "メガコースターの施設Lvを{0}回上げる"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+            "text": "{0}種類のライブをクリアしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+            "text": "くらやみチェイスで{0}回鍵を使おう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+            "text": "くらやみチェイスで{0}回拘束しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+            "text": "メンバーを{0}回特訓しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+            "text": "隠しトレジャーを{0}個拾おう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "text": "ねぽらぼマートのホロゴールド交換で{0}回交換しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+            "text": "ライブを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+            "text": "ライブブーストを合計{0}消費しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+            "text": "ミニゲームを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+            "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+            "text": "みんなでライブを{0}回プレイしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+            "text": "クリエイト譜面の楽曲を{0}回クリアしよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+            "text": "ホロメンボードを{0}個解放しよう"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
             "text": "ホロワークを{0}回開始しよう"
         }
     },

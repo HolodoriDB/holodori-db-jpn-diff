@@ -84,6 +84,34 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00006-5-uniq-0074-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00006-5-uniq-0074-00-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で全員のセンスが130%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00014-5-uniq-0075-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00014-5-uniq-0075-00-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で全員のテクニックが130%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00016-5-uniq-0076-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00016-5-uniq-0076-00-description",
+            "text": "ゲーマーズが2人以上で全員のパフォーマンスが135%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00017-5-uniq-0077-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00017-5-uniq-0077-00-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で全員のテクニックが80%UP\n[attribute=pure]ピュアタイプ[/attribute]2人以上で全員のスコアサポート効果25%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

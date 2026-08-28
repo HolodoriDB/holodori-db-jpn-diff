@@ -196,6 +196,62 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": " 35秒毎に中確率で13秒間スコアが95%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": " 35秒毎に中確率で13秒間スコアが[highlight]115[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": " 23秒毎に中確率で8秒間スコアが100%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": " 23秒毎に中確率で8秒間スコアが[highlight]120[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": " 28秒毎に高確率で10秒間スコアが95%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": " 28秒毎に高確率で10秒間スコアが[highlight]110[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": " 32秒毎に高確率で11秒間スコアが50%UP\n[attribute=pure]ピュアタイプ[/attribute]2人以上でスコアが100%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": " 32秒毎に高確率で11秒間スコアが[highlight]60[/highlight]%UP\n[attribute=pure]ピュアタイプ[/attribute]2人以上でスコアが[highlight]120[/highlight]%UP"
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

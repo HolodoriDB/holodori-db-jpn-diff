@@ -364,6 +364,34 @@
         }
     },
     {
+        "id": "la-loading_display-tips-mg-chase-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-text",
+            "text": "鍵は連続で使用すると、使用時間が短くなるよ！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-title",
+            "text": "くらやみチェイスのヒント（いたずら組）"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-text",
+            "text": "スキル発動のタイミングを見極めよう！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-title",
+            "text": "くらやみチェイスのヒント（パトロール隊）"
+        }
+    },
+    {
         "id": "la-loading_display-tips-mg-circuit-001-text",
         "data": {
             "id": "la-loading_display-tips-mg-circuit-001-text",

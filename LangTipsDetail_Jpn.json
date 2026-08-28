@@ -49,6 +49,69 @@
         }
     },
     {
+        "id": "la-tips-chase-description-1",
+        "data": {
+            "id": "la-tips-chase-description-1",
+            "text": "くらやみチェイスは、<color=#ff3bc8>holoXアジト</color>でいつでも遊べるよ！"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-2",
+        "data": {
+            "id": "la-tips-chase-description-2",
+            "text": "報酬は勝敗に関わらず、スコアに応じて獲得できるよ！\n\n報酬には、<color=#ff3bc8>ハーモニーガーデンコイン</color>もあるよ！\n\nハーモニーガーデンコインは、ねぽらぼマートでさまざまなアイテムと交換できるよ！"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-3",
+        "data": {
+            "id": "la-tips-chase-description-3",
+            "text": "ランキングには、<color=#ff3bc8>いたずら組・パトロール隊それぞれのベストスコアが記録</color>されるよ！\n\n※ベストスコアが同じ場合、順位は先着順となります。"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-1",
+        "data": {
+            "id": "la-tips-chase-quest-description-1",
+            "text": "くらやみチェイスは、<color=#ff3bc8>逃げるいたずら組</color>と<color=#ff3bc8>捕まえるパトロール隊</color>の2チームに分かれて対戦するミニゲームだよ！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-2",
+        "data": {
+            "id": "la-tips-chase-quest-description-2",
+            "text": "いたずら組は、パトロール隊から逃げながら、<color=#ff3bc8>施設を5つ開放できれば勝利だよ！</color>\n\n施設を開放するには、パーク内に落ちている鍵を使用する必要があるよ！\n\n▼操作方法\nピック：鍵の近くでタップすると鍵を拾える\n\nユーズ：鍵を持った状態で施設に近づいて長押しすると鍵が使える\n※鍵を持って施設に近づくと、ボタンが切り替わります。"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-3",
+        "data": {
+            "id": "la-tips-chase-quest-description-3",
+            "text": "パトロール隊は、<color=#ff3bc8>いたずら組を全員捕まえれば勝利だよ！</color>\n\nいたずら組に近づいて「キャッチ」を押すと、捕まえられるよ！\n\nまた、<color=#ff3bc8>制限時間内にいたずら組が施設を5つ開放できなかった場合</color>も、パトロール隊の勝利になるよ！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-4",
+        "data": {
+            "id": "la-tips-chase-quest-description-4",
+            "text": "いたずら組は、捕まった味方を救助できるよ！\n\n<color=#ff3bc8>捕まった味方の近くで「救助」を長押し</color>すると、助けることができるよ！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-5",
+        "data": {
+            "id": "la-tips-chase-quest-description-5",
+            "text": "いたずら組は、レーザーギミックを活用すると、ゲームを有利に進めることができるよ！\n\nレーザーギミックを解除できれば、<color=#ff3bc8>各施設の開放に必要な鍵の数を1つ減らせるよ！</color>\n\nレーザーギミックは、手前のスイッチに乗ることで解除することができるよ！\n\nスイッチは2つあり、<color=#ff3bc8>2人で乗るとより早く解除できるよ！</color>"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-6",
+        "data": {
+            "id": "la-tips-chase-quest-description-6",
+            "text": "パトロール隊は、スキルを使うことができるよ！\n\n使えるスキルは3種類で、パトロール隊のプレイヤーごとにランダムで割り当てられるよ！\n\n▼スキル説明\n・スピードアップ：<color=#ff3bc8>移動速度がアップ</color>する\n\n・レーダー：<color=#ff3bc8>近くにいるいたずら組の位置がわかる</color>\n\n・ステルス：半透明になり、<color=#ff3bc8>いたずら組から見えにくくなる</color>\n\n※スキルは一定時間だけ有効です。\n※スキルを使うと、ゲージが溜まるまで使えなくなります。"
+        }
+    },
+    {
         "id": "la-tips-circuit-description-1",
         "data": {
             "id": "la-tips-circuit-description-1",
@@ -122,7 +185,7 @@
         "id": "la-tips-combo-card-game-quest-description-4",
         "data": {
             "id": "la-tips-combo-card-game-quest-description-4",
-            "text": "<color=#ff3bc8>他のプレイヤーが場に出したカードでも「ポカジャン！」ができる</color>よ！\n\nただし、複数人が同時に「ポカジャン！」しても、コインを獲得できるのは最も強い役を作った1人だけ！\n\n最も強い役を作ったプレイヤーが複数いた場合、<color=#ff3bc8>「ポカジャン」されたプレイヤーから時計回りで最も近いプレイヤーが優先</color>されるよ！"
+            "text": "<color=#ff3bc8>他のプレイヤーが場に出したカードでも「ポカジャン！」ができる</color>よ！\n\nただし、複数人が同時に「ポカジャン！」しても、コインを獲得できるのは最も強い役を作った1人だけ！\n\n最も強い役を作ったプレイヤーが複数いた場合、<color=#ff3bc8>「ポカジャン！」されたプレイヤーから時計回りで最も近いプレイヤーが優先</color>されるよ！"
         }
     },
     {
@@ -360,7 +423,7 @@
         "id": "la-tips-game_screen-combo-card-game-description-4",
         "data": {
             "id": "la-tips-game_screen-combo-card-game-description-4",
-            "text": "<color=#ff3bc8>他のプレイヤーが場に出したカードでも「ポカジャン！」ができる</color>よ！\n\nただし、複数人が同時に「ポカジャン！」しても、コインを獲得できるのは最も強い役を作った1人だけ！\n\n最も強い役を作ったプレイヤーが複数いた場合、<color=#ff3bc8>「ポカジャン」されたプレイヤーから時計回りで最も近いプレイヤーが優先</color>されるよ！"
+            "text": "<color=#ff3bc8>他のプレイヤーが場に出したカードでも「ポカジャン！」ができる</color>よ！\n\nただし、複数人が同時に「ポカジャン！」しても、コインを獲得できるのは最も強い役を作った1人だけ！\n\n最も強い役を作ったプレイヤーが複数いた場合、<color=#ff3bc8>「ポカジャン！」されたプレイヤーから時計回りで最も近いプレイヤーが優先</color>されるよ！"
         }
     },
     {
@@ -710,7 +773,7 @@
         "id": "la-tips-game_screen-park_high_low_top-description-2",
         "data": {
             "id": "la-tips-game_screen-park_high_low_top-description-2",
-            "text": "ダブルアップチャンスでは、次に引くカードが前に引いたカードよりも、大きいか、小さいかを当ててね！\n\n<color=#ff3bc8>ダブルアップチャンスに成功すると、獲得コインが倍</color>になるよ！"
+            "text": "ダブルアップチャンスでは、次に引くカードが前に引いたカードよりも、「たかい」か「ひくい」かを当ててね！\n\n▼カードの強さ\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>ダブルアップチャンスに成功すると、獲得コインが倍</color>になるよ！"
         }
     },
     {
@@ -1718,7 +1781,7 @@
         "id": "la-tips-park-high-low-area02-description-2",
         "data": {
             "id": "la-tips-park-high-low-area02-description-2",
-            "text": "ダブルアップチャンスでは、次に引くカードが前に引いたカードよりも、大きいか、小さいかを当ててね！\n\n<color=#ff3bc8>ダブルアップチャンスに成功すると、獲得コインが倍</color>になるよ！"
+            "text": "ダブルアップチャンスでは、次に引くカードが前に引いたカードよりも、「たかい」か「ひくい」かを当ててね！\n\n▼カードの強さ\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>ダブルアップチャンスに成功すると、獲得コインが倍</color>になるよ！"
         }
     },
     {

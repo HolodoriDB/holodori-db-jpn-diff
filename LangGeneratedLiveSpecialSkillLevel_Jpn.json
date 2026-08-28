@@ -168,6 +168,62 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": "12秒間スコアサポート効果110%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": "12秒間スコアサポート効果[highlight]135[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": "12秒間スコアサポート効果110%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": "12秒間スコアサポート効果[highlight]135[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": "11秒間スコアサポート効果110%\nゲーマーズが2人以上でスキル発動率が40%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": "11秒間スコアサポート効果[highlight]130[/highlight]%\nゲーマーズが2人以上でスキル発動率が[highlight]50[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": "12秒間スコアサポート効果100%\nスキル発動率が35%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": "12秒間スコアサポート効果[highlight]120[/highlight]%\nスキル発動率が[highlight]40[/highlight]%UP"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

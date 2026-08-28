@@ -896,6 +896,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+            "text": "イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+            "text": "イベントバッジ"
+        }
+    },
+    {
         "id": "la-item-event_badge-marathon_event-relay-001-all-description",
         "data": {
             "id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -1215,6 +1229,20 @@
         "data": {
             "id": "la-item-live_reward_up_stamina_recover-name",
             "text": "ライブブーストドリンク"
+        }
+    },
+    {
+        "id": "la-item-mini-game-chase-coin-description",
+        "data": {
+            "id": "la-item-mini-game-chase-coin-description",
+            "text": "ハーモニーガーデンコイン交換所で商品と交換できるアイテム。"
+        }
+    },
+    {
+        "id": "la-item-mini-game-chase-coin-name",
+        "data": {
+            "id": "la-item-mini-game-chase-coin-name",
+            "text": "ハーモニーガーデンコイン"
         }
     },
     {
