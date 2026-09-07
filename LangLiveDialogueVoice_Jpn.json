@@ -84,6 +84,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+            "text": "【波音に安らぐ、しごでき幹部 ルイ】SPスキル"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
@@ -102,6 +109,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
             "text": "【潮騒の記憶をたどって 伊那尓栖】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+            "text": "【フワワのFlowing Summer フワワ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+            "text": "【モココのBreezy Summer モココ】SPスキル"
         }
     },
     {
@@ -1442,6 +1463,34 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "【波音に安らぐ、しごでき幹部 ルイ】ルイ&フワワ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "【波音に安らぐ、しごでき幹部 ルイ】ルイ&モココ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "【波音に安らぐ、しごでき幹部 ルイ】フワワ&ルイ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "【波音に安らぐ、しごでき幹部 ルイ】モココ&ルイ"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00035",
         "data": {
             "id": "la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00035",
@@ -2121,6 +2170,34 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "【フワワのFlowing Summer フワワ】ルイ&フワワ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "【フワワのFlowing Summer フワワ】フワワ&ルイ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "【フワワのFlowing Summer フワワ】フワワ&モココ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "【フワワのFlowing Summer フワワ】モココ&フワワ"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04013",
         "data": {
             "id": "la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04013",
@@ -2153,6 +2230,34 @@
         "data": {
             "id": "la-name_live_dial_voice_card_04017-5-uniq-0056-00_myself",
             "text": "【のほほんドーナツパーティー♪ モココ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "【モココのBreezy Summer モココ】ルイ&モココ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "【モココのBreezy Summer モココ】フワワ&モココ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "【モココのBreezy Summer モココ】モココ&ルイ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "【モココのBreezy Summer モココ】モココ&フワワ"
         }
     },
     {
