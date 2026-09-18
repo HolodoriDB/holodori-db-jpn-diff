@@ -1282,6 +1282,34 @@
         }
     },
     {
+        "id": "la-music_arranger-m0349",
+        "data": {
+            "id": "la-music_arranger-m0349",
+            "text": "太嘉志・猟平"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0350",
+        "data": {
+            "id": "la-music_arranger-m0350",
+            "text": "蒼井純人 (SUPA LOVE)"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0351",
+        "data": {
+            "id": "la-music_arranger-m0351",
+            "text": "堀川大翼(Elements Garden)"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0352",
+        "data": {
+            "id": "la-music_arranger-m0352",
+            "text": "傳田有矢（EverNest）"
+        }
+    },
+    {
         "id": "la-music_arranger-m0353",
         "data": {
             "id": "la-music_arranger-m0353",
@@ -2610,6 +2638,34 @@
         "data": {
             "id": "la-music_arranger_ruby-m0348",
             "text": "うさみゆうじ"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0349",
+        "data": {
+            "id": "la-music_arranger_ruby-m0349",
+            "text": "たかしりょうへい"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0350",
+        "data": {
+            "id": "la-music_arranger_ruby-m0350",
+            "text": "あおいすみと"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0351",
+        "data": {
+            "id": "la-music_arranger_ruby-m0351",
+            "text": "ほりかわだいすけ"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0352",
+        "data": {
+            "id": "la-music_arranger_ruby-m0352",
+            "text": "でんだゆうや"
         }
     },
     {
@@ -4006,6 +4062,34 @@
         }
     },
     {
+        "id": "la-music_composer-m0349",
+        "data": {
+            "id": "la-music_composer-m0349",
+            "text": "太嘉志・猟平"
+        }
+    },
+    {
+        "id": "la-music_composer-m0350",
+        "data": {
+            "id": "la-music_composer-m0350",
+            "text": "蒼井純人 (SUPA LOVE)"
+        }
+    },
+    {
+        "id": "la-music_composer-m0351",
+        "data": {
+            "id": "la-music_composer-m0351",
+            "text": "堀川大翼(Elements Garden)"
+        }
+    },
+    {
+        "id": "la-music_composer-m0352",
+        "data": {
+            "id": "la-music_composer-m0352",
+            "text": "傳田有矢（EverNest）"
+        }
+    },
+    {
         "id": "la-music_composer-m0353",
         "data": {
             "id": "la-music_composer-m0353",
@@ -5396,6 +5480,34 @@
         "data": {
             "id": "la-music_composer_ruby-m0348",
             "text": "うさみゆうじ"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0349",
+        "data": {
+            "id": "la-music_composer_ruby-m0349",
+            "text": "たかしりょうへい"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0350",
+        "data": {
+            "id": "la-music_composer_ruby-m0350",
+            "text": "あおいすみと"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0351",
+        "data": {
+            "id": "la-music_composer_ruby-m0351",
+            "text": "ほりかわだいすけ"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0352",
+        "data": {
+            "id": "la-music_composer_ruby-m0352",
+            "text": "でんだゆうや"
         }
     },
     {
@@ -7184,6 +7296,34 @@
         }
     },
     {
+        "id": "la-music_lyricist-m0349",
+        "data": {
+            "id": "la-music_lyricist-m0349",
+            "text": "太嘉志・猟平"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0350",
+        "data": {
+            "id": "la-music_lyricist-m0350",
+            "text": "蒼井純人 (SUPA LOVE)"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0351",
+        "data": {
+            "id": "la-music_lyricist-m0351",
+            "text": "堀川大翼(Elements Garden)"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0352",
+        "data": {
+            "id": "la-music_lyricist-m0352",
+            "text": "傳田有矢（EverNest）"
+        }
+    },
+    {
         "id": "la-music_lyricist-m0353",
         "data": {
             "id": "la-music_lyricist-m0353",
@@ -8574,6 +8714,34 @@
         "data": {
             "id": "la-music_lyricist_ruby-m0348",
             "text": "うさみゆうじ"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0349",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0349",
+            "text": "たかしりょうへい"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0350",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0350",
+            "text": "あおいすみと"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0351",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0351",
+            "text": "ほりかわだいすけ"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0352",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0352",
+            "text": "でんだゆうや"
         }
     },
     {
@@ -9970,6 +10138,34 @@
         }
     },
     {
+        "id": "la-music_title-m0349",
+        "data": {
+            "id": "la-music_title-m0349",
+            "text": "Grave of Halo"
+        }
+    },
+    {
+        "id": "la-music_title-m0350",
+        "data": {
+            "id": "la-music_title-m0350",
+            "text": "リーサルドーズ・パラノイド"
+        }
+    },
+    {
+        "id": "la-music_title-m0351",
+        "data": {
+            "id": "la-music_title-m0351",
+            "text": "Glitch Through"
+        }
+    },
+    {
+        "id": "la-music_title-m0352",
+        "data": {
+            "id": "la-music_title-m0352",
+            "text": "64."
+        }
+    },
+    {
         "id": "la-music_title-m0353",
         "data": {
             "id": "la-music_title-m0353",
@@ -11360,6 +11556,34 @@
         "data": {
             "id": "la-music_title_ruby-m0348",
             "text": "さんみいったいらぶしすてむ"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0349",
+        "data": {
+            "id": "la-music_title_ruby-m0349",
+            "text": "ぐれいぶおぶへいろー"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0350",
+        "data": {
+            "id": "la-music_title_ruby-m0350",
+            "text": "りーさるどーずぱらのいど"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0351",
+        "data": {
+            "id": "la-music_title_ruby-m0351",
+            "text": "ぐりっちするー"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0352",
+        "data": {
+            "id": "la-music_title_ruby-m0352",
+            "text": "しっくすてぃーふぉー"
         }
     },
     {
@@ -12756,6 +12980,34 @@
         }
     },
     {
+        "id": "la-singer_name-m0349",
+        "data": {
+            "id": "la-singer_name-m0349",
+            "text": "アキ・ローゼンタール"
+        }
+    },
+    {
+        "id": "la-singer_name-m0350",
+        "data": {
+            "id": "la-singer_name-m0350",
+            "text": "ラプラス・ダークネス"
+        }
+    },
+    {
+        "id": "la-singer_name-m0351",
+        "data": {
+            "id": "la-singer_name-m0351",
+            "text": "Shiori Novella"
+        }
+    },
+    {
+        "id": "la-singer_name-m0352",
+        "data": {
+            "id": "la-singer_name-m0352",
+            "text": "Anya Melfissa"
+        }
+    },
+    {
         "id": "la-singer_name-m0353",
         "data": {
             "id": "la-singer_name-m0353",
@@ -14146,6 +14398,34 @@
         "data": {
             "id": "la-singer_name_ruby-m0348",
             "text": "たかねるいふわわあびすがーどもここあびすがーど"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0349",
+        "data": {
+            "id": "la-singer_name_ruby-m0349",
+            "text": "あきろーぜんたーる"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0350",
+        "data": {
+            "id": "la-singer_name_ruby-m0350",
+            "text": "らぷらすだーくねす"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0351",
+        "data": {
+            "id": "la-singer_name_ruby-m0351",
+            "text": "しおりのゔぇら"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0352",
+        "data": {
+            "id": "la-singer_name_ruby-m0352",
+            "text": "あーにゃめるふぃっさ"
         }
     },
     {
