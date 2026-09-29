@@ -49,6 +49,13 @@
         }
     },
     {
+        "id": "la-label-facility-a01-gate3",
+        "data": {
+            "id": "la-label-facility-a01-gate3",
+            "text": "エリア移動"
+        }
+    },
+    {
         "id": "la-label-facility-a01-house",
         "data": {
             "id": "la-label-facility-a01-house",
@@ -193,6 +200,90 @@
         "data": {
             "id": "la-label-facility-a02-station",
             "text": "ホロワーク"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-boatshop",
+        "data": {
+            "id": "la-label-facility-a03-boatshop",
+            "text": "ボートショップ"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingpond1",
+        "data": {
+            "id": "la-label-facility-a03-fishingpond1",
+            "text": "釣りスポット"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingpond2",
+        "data": {
+            "id": "la-label-facility-a03-fishingpond2",
+            "text": "釣りスポット"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingpond3",
+        "data": {
+            "id": "la-label-facility-a03-fishingpond3",
+            "text": "釣りスポット"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingshop",
+        "data": {
+            "id": "la-label-facility-a03-fishingshop",
+            "text": "釣り餌ショップ"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-glamping",
+        "data": {
+            "id": "la-label-facility-a03-glamping",
+            "text": "時間変更"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-livestage",
+        "data": {
+            "id": "la-label-facility-a03-livestage",
+            "text": "リズムゲーム"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-resortshop",
+        "data": {
+            "id": "la-label-facility-a03-resortshop",
+            "text": "交換所"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-stadium",
+        "data": {
+            "id": "la-label-facility-a03-stadium",
+            "text": "ミニゲーム"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-station",
+        "data": {
+            "id": "la-label-facility-a03-station",
+            "text": "ホロワーク"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-watergun",
+        "data": {
+            "id": "la-label-facility-a03-watergun",
+            "text": "水でっぽうショップ"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-whale",
+        "data": {
+            "id": "la-label-facility-a03-whale",
+            "text": "クジラ"
         }
     }
 ]

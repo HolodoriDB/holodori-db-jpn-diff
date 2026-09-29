@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "id": "la-park_fishing_rod-01-description",
+        "data": {
+            "id": "la-park_fishing_rod-01-description",
+            "text": "魚を釣ることができる竿"
+        }
+    },
+    {
+        "id": "la-park_fishing_rod-01-name",
+        "data": {
+            "id": "la-park_fishing_rod-01-name",
+            "text": "釣り竿Lv1"
+        }
+    },
+    {
+        "id": "la-park_fishing_rod-02-description",
+        "data": {
+            "id": "la-park_fishing_rod-02-description",
+            "text": "魚を釣ることができる竿"
+        }
+    },
+    {
+        "id": "la-park_fishing_rod-02-name",
+        "data": {
+            "id": "la-park_fishing_rod-02-name",
+            "text": "釣り竿Lv2"
+        }
+    },
+    {
+        "id": "la-park_fishing_rod-03-description",
+        "data": {
+            "id": "la-park_fishing_rod-03-description",
+            "text": "魚を釣ることができる竿"
+        }
+    },
+    {
+        "id": "la-park_fishing_rod-03-name",
+        "data": {
+            "id": "la-park_fishing_rod-03-name",
+            "text": "釣り竿Lv3"
+        }
+    },
+    {
+        "id": "la-park_fishing_rod-04-description",
+        "data": {
+            "id": "la-park_fishing_rod-04-description",
+            "text": "魚を釣ることができる竿"
+        }
+    },
+    {
+        "id": "la-park_fishing_rod-04-name",
+        "data": {
+            "id": "la-park_fishing_rod-04-name",
+            "text": "釣り竿Lv4"
+        }
+    }
+]

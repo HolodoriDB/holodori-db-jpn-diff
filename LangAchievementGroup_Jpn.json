@@ -105,6 +105,13 @@
         }
     },
     {
+        "id": "la-achievement_grp-minigame_splashball",
+        "data": {
+            "id": "la-achievement_grp-minigame_splashball",
+            "text": "スプラッシュボール"
+        }
+    },
+    {
         "id": "la-achievement_grp-music",
         "data": {
             "id": "la-achievement_grp-music",
@@ -151,6 +158,13 @@
         "data": {
             "id": "la-achievement_grp-w1-a02",
             "text": "メガスフィア"
+        }
+    },
+    {
+        "id": "la-achievement_grp-w1-a03",
+        "data": {
+            "id": "la-achievement_grp-w1-a03",
+            "text": "ソーダポップラグーン"
         }
     },
     {
