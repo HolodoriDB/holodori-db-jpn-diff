@@ -378,6 +378,48 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.1-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人の全パラメータが11%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.2-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人の全パラメータが[highlight]15[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.1-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.2-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.1-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で[attribute=cute]キュートタイプ[/attribute]2人のテクニックが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.2-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で[attribute=cute]キュートタイプ[/attribute]2人のテクニックが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

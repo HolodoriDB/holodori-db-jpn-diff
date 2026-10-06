@@ -1470,6 +1470,13 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_area-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_area-description-1",
+            "text": "<color=#ff3bc8>ポイントラリーイベント</color>では、期間中にライブやミニゲームをプレイするとイベントPtとイベントバッジを獲得できるよ！\n\nイベントバッジを集めると交換所でイベントメモリーなどのアイテムと交換できるよ！"
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_mission-description-1",
         "data": {
             "id": "la-tips-hint-marathon_mission-description-1",
