@@ -420,6 +420,62 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.1-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で[attribute=cute]キュートタイプ[/attribute]2人のテクニックが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.2-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で[attribute=cute]キュートタイプ[/attribute]2人のテクニックが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.1-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人のスコアサポート効果8%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.2-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人のスコアサポート効果[highlight]11[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.1-description",
+            "text": "ID3期生2人のセンスが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.2-description",
+            "text": "ID3期生2人のセンスが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.1-description",
+            "text": "Adventが2人以上でAdvent2人のスコアサポート効果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.2-description",
+            "text": "Adventが2人以上でAdvent2人のスコアサポート効果[highlight]12[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
