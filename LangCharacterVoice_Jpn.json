@@ -391,6 +391,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-detail",
+            "text": "【おてんば狼のあま～いTrick まつり】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-01",
+            "text": "【おてんば狼のあま～いTrick まつり】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-02",
+            "text": "【おてんば狼のあま～いTrick まつり】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-03",
+            "text": "【おてんば狼のあま～いTrick まつり】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-04",
+            "text": "【おてんば狼のあま～いTrick まつり】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-05",
+            "text": "【おてんば狼のあま～いTrick まつり】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0010-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00010_00010-5-uniq-0010-00_card-detail",
@@ -2887,6 +2935,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-detail",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-01",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-02",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-03",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-04",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-05",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0040-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0040-00_card-detail",
@@ -3751,6 +3847,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-detail",
+            "text": "【魅惑のMagic Potion ネリッサ】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-01",
+            "text": "【魅惑のMagic Potion ネリッサ】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-02",
+            "text": "【魅惑のMagic Potion ネリッサ】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-03",
+            "text": "【魅惑のMagic Potion ネリッサ】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-04",
+            "text": "【魅惑のMagic Potion ネリッサ】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-05",
+            "text": "【魅惑のMagic Potion ネリッサ】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0055-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0055-00_card-detail",
@@ -4183,6 +4327,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-detail",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-01",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-02",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-03",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-04",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-05",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】開花5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0061-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0061-00_card-detail",
@@ -4228,6 +4420,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0061-00_card-potential-05",
             "text": "【ガーリー番長のお裾分け はじめ】開花5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-detail",
+            "text": "【今宵開幕！あやかしダンシング はじめ】トーク"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-01",
+            "text": "【今宵開幕！あやかしダンシング はじめ】開花1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-02",
+            "text": "【今宵開幕！あやかしダンシング はじめ】開花2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-03",
+            "text": "【今宵開幕！あやかしダンシング はじめ】開花3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-04",
+            "text": "【今宵開幕！あやかしダンシング はじめ】開花4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-05",
+            "text": "【今宵開幕！あやかしダンシング はじめ】開花5"
         }
     },
     {
@@ -4410,6 +4650,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00007_00007-5-uniq-0008-00_start-card",
             "text": "【ハジける快活チアリーダー まつり】ライブ開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_skill-card",
+            "text": "【おてんば狼のあま～いTrick まつり】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_start-card",
+            "text": "【おてんば狼のあま～いTrick まつり】ライブ開始"
         }
     },
     {
@@ -5575,6 +5829,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_skill-card",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_start-card",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-03007_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-03007_myself-001",
@@ -5981,6 +6249,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_skill-card",
+            "text": "【魅惑のMagic Potion ネリッサ】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_start-card",
+            "text": "【魅惑のMagic Potion ネリッサ】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-04015_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-04015_myself-001",
@@ -6177,6 +6459,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_skill-card",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_start-card",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】ライブ開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-06004_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-06004_myself-001",
@@ -6202,6 +6498,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-06005_06005-5-uniq-0061-00_start-card",
             "text": "【ガーリー番長のお裾分け はじめ】ライブ開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_skill-card",
+            "text": "【今宵開幕！あやかしダンシング はじめ】スキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_start-card",
+            "text": "【今宵開幕！あやかしダンシング はじめ】ライブ開始"
         }
     },
     {
@@ -10524,6 +10834,69 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-03007",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-04015",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06004",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06005",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_03007-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_03007-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】ゼータ&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_04015-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_04015-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】ネリッサ&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06004-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06004-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】らでん&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06005-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06005-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】はじめ&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+            "text": "【おてんば狼のあま～いTrick まつり】SPスキル"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00007_00007-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00007_00007-to-00001",
@@ -11119,6 +11492,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00007_03007-5-uniq-0100-00_00007-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_03007-5-uniq-0100-00_00007-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】まつり&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_03007-5-uniq-0100-00_03007-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_03007-5-uniq-0100-00_03007-to-00007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&まつり"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00007_03007-to-00007",
         "data": {
             "id": "la-name_cv-live_dial_chr-00007_03007-to-00007",
@@ -11196,6 +11583,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00007_04015-5-uniq-0099-00_00007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_04015-5-uniq-0099-00_00007-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】まつり&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_04015-5-uniq-0099-00_04015-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_04015-5-uniq-0099-00_04015-to-00007",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&まつり"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00007_04015-to-00007",
         "data": {
             "id": "la-name_cv-live_dial_chr-00007_04015-to-00007",
@@ -11231,10 +11632,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00007_06004-5-uniq-0098-00_00007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_06004-5-uniq-0098-00_00007-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】まつり&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_06004-5-uniq-0098-00_06004-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_06004-5-uniq-0098-00_06004-to-00007",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&まつり"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00007_06004-to-00007",
         "data": {
             "id": "la-name_cv-live_dial_chr-00007_06004-to-00007",
             "text": "らでん&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_06005-5-uniq-0097-00_00007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_06005-5-uniq-0097-00_00007-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】まつり&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00007_06005-5-uniq-0097-00_06005-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_06005-5-uniq-0097-00_06005-to-00007",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&まつり"
         }
     },
     {
@@ -37313,6 +37742,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03007_00007-5-uniq-0096-00_00007-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_00007-5-uniq-0096-00_00007-to-03007",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_00007-5-uniq-0096-00_03007-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_00007-5-uniq-0096-00_03007-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】ゼータ&まつり"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03007_00007-to-03007",
         "data": {
             "id": "la-name_cv-live_dial_chr-03007_00007-to-03007",
@@ -37548,6 +37991,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0039-00_myself",
             "text": "【陽だまりとネコと構成員 ゼータ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_00007-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_00007-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】まつり&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-00007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-04015",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06004",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06005",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_04015-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_04015-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ネリッサ&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06004-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06004-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】らでん&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06005-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06005-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】はじめ&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】SPスキル"
         }
     },
     {
@@ -38034,6 +38540,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03007_04015-5-uniq-0099-00_03007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_04015-5-uniq-0099-00_03007-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】ゼータ&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_04015-5-uniq-0099-00_04015-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_04015-5-uniq-0099-00_04015-to-03007",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&ゼータ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03007_04015-to-03007",
         "data": {
             "id": "la-name_cv-live_dial_chr-03007_04015-to-03007",
@@ -38069,10 +38589,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03007_06004-5-uniq-0098-00_03007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_06004-5-uniq-0098-00_03007-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】ゼータ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_06004-5-uniq-0098-00_06004-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_06004-5-uniq-0098-00_06004-to-03007",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&ゼータ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03007_06004-to-03007",
         "data": {
             "id": "la-name_cv-live_dial_chr-03007_06004-to-03007",
             "text": "らでん&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_06005-5-uniq-0097-00_03007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_06005-5-uniq-0097-00_03007-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】ゼータ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_06005-5-uniq-0097-00_06005-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_06005-5-uniq-0097-00_06005-to-03007",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&ゼータ"
         }
     },
     {
@@ -46791,6 +47339,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04015_00007-5-uniq-0096-00_00007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_00007-5-uniq-0096-00_00007-to-04015",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_00007-5-uniq-0096-00_04015-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_00007-5-uniq-0096-00_04015-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】ネリッサ&まつり"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04015_00007-to-04015",
         "data": {
             "id": "la-name_cv-live_dial_chr-04015_00007-to-04015",
@@ -47008,6 +47570,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04015_03007-5-uniq-0100-00_03007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_03007-5-uniq-0100-00_03007-to-04015",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_03007-5-uniq-0100-00_04015-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_03007-5-uniq-0100-00_04015-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ネリッサ&ゼータ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04015_03007-to-04015",
         "data": {
             "id": "la-name_cv-live_dial_chr-04015_03007-to-04015",
@@ -47145,6 +47721,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0054-00_myself",
             "text": "【歌に揺らめくノクターン ネリッサ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_00007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_00007-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】まつり&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_03007-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_03007-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】ゼータ&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-00007",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-03007",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06004",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06005",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06004-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06004-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】らでん&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06005-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06005-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】はじめ&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+            "text": "【魅惑のMagic Potion ネリッサ】SPスキル"
         }
     },
     {
@@ -47561,10 +48200,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04015_06004-5-uniq-0098-00_04015-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_06004-5-uniq-0098-00_04015-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】ネリッサ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_06004-5-uniq-0098-00_06004-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_06004-5-uniq-0098-00_06004-to-04015",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&ネリッサ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04015_06004-to-04015",
         "data": {
             "id": "la-name_cv-live_dial_chr-04015_06004-to-04015",
             "text": "らでん&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_06005-5-uniq-0097-00_04015-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_06005-5-uniq-0097-00_04015-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】ネリッサ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04015_06005-5-uniq-0097-00_06005-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_06005-5-uniq-0097-00_06005-to-04015",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&ネリッサ"
         }
     },
     {
@@ -51250,6 +51917,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06004_00007-5-uniq-0096-00_00007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_00007-5-uniq-0096-00_00007-to-06004",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_00007-5-uniq-0096-00_06004-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_00007-5-uniq-0096-00_06004-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】らでん&まつり"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06004_00007-to-06004",
         "data": {
             "id": "la-name_cv-live_dial_chr-06004_00007-to-06004",
@@ -51467,6 +52148,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06004_03007-5-uniq-0100-00_03007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_03007-5-uniq-0100-00_03007-to-06004",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_03007-5-uniq-0100-00_06004-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_03007-5-uniq-0100-00_06004-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】らでん&ゼータ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06004_03007-to-06004",
         "data": {
             "id": "la-name_cv-live_dial_chr-06004_03007-to-06004",
@@ -51544,6 +52239,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06004_04015-5-uniq-0099-00_04015-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_04015-5-uniq-0099-00_04015-to-06004",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_04015-5-uniq-0099-00_06004-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_04015-5-uniq-0099-00_06004-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】らでん&ネリッサ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06004_04015-to-06004",
         "data": {
             "id": "la-name_cv-live_dial_chr-06004_04015-to-06004",
@@ -51618,6 +52327,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0060-00_myself",
             "text": "【叡智を灯し、アートに導く らでん】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_00007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_00007-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】まつり&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_03007-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_03007-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】ゼータ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_04015-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_04015-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】ネリッサ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-00007",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-03007",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-04015",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-06005",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06005-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06005-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】はじめ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】SPスキル"
         }
     },
     {
@@ -51999,6 +52771,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06004-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06004-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】らでん&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06005-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06005-to-06004",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&らでん"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06004_06005-to-06004",
         "data": {
             "id": "la-name_cv-live_dial_chr-06004_06005-to-06004",
@@ -52038,6 +52824,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06005_00006-to-06005",
             "text": "フブキ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_00007-5-uniq-0096-00_00007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_00007-5-uniq-0096-00_00007-to-06005",
+            "text": "【おてんば狼のあま～いTrick まつり】まつり&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_00007-5-uniq-0096-00_06005-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_00007-5-uniq-0096-00_06005-to-00007",
+            "text": "【おてんば狼のあま～いTrick まつり】はじめ&まつり"
         }
     },
     {
@@ -52258,6 +53058,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06005_03007-5-uniq-0100-00_03007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_03007-5-uniq-0100-00_03007-to-06005",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】ゼータ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_03007-5-uniq-0100-00_06005-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_03007-5-uniq-0100-00_06005-to-03007",
+            "text": "【気まぐれガールのドキドキ診療室 ゼータ】はじめ&ゼータ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06005_03007-to-06005",
         "data": {
             "id": "la-name_cv-live_dial_chr-06005_03007-to-06005",
@@ -52349,6 +53163,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06005_04015-5-uniq-0099-00_04015-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_04015-5-uniq-0099-00_04015-to-06005",
+            "text": "【魅惑のMagic Potion ネリッサ】ネリッサ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_04015-5-uniq-0099-00_06005-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_04015-5-uniq-0099-00_06005-to-04015",
+            "text": "【魅惑のMagic Potion ネリッサ】はじめ&ネリッサ"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06005_04015-to-06005",
         "data": {
             "id": "la-name_cv-live_dial_chr-06005_04015-to-06005",
@@ -52405,6 +53233,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06004-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06004-to-06005",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】らでん&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06005-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06005-to-06004",
+            "text": "【高貴なるヴァンパイアの嗜み らでん】はじめ&らでん"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06005_06004-to-06005",
         "data": {
             "id": "la-name_cv-live_dial_chr-06005_06004-to-06005",
@@ -52437,6 +53279,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0061-00_myself",
             "text": "【ガーリー番長のお裾分け はじめ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_00007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_00007-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】まつり&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_03007-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_03007-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】ゼータ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_04015-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_04015-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】ネリッサ&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06004-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06004-to-06005",
+            "text": "【今宵開幕！あやかしダンシング はじめ】らでん&はじめ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-00007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-00007",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&まつり"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-03007",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&ゼータ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-04015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-04015",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&ネリッサ"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-06004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-06004",
+            "text": "【今宵開幕！あやかしダンシング はじめ】はじめ&らでん"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+            "text": "【今宵開幕！あやかしダンシング はじめ】SPスキル"
         }
     },
     {
@@ -102728,6 +103633,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-detail",
+            "text": "アオォォ～ン！！まつりオオカミが来たぞぉ～～～～っ！！\n……なーんちゃって♪これ、仮装パーティで着た衣装なんだっ！かわいいでしょ～♪\n……でさぁ～、まつり、今退屈なんだよねぇ～……チラっ、チラチラっ？\nもぉ～、何を言いたいかわかってるでしょっ。いいから、まつりにぃ～……かーまーえぇ～～～～っ♪\nはい、というわけで！とりあえず、いい子いい子って頭撫でてみよっかっ♪\nほらほら、早くぅ～～～、ねぇ～～～～っ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-get",
+            "text": "まつりオオカミから目を離したら、だ・め・だ・ぞっ♡\nず～っと見守っててね♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-01",
+            "text": "油断してると、まつりオオカミが食べちゃうぞっ♡ガウガウっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-02",
+            "text": "うぅ～、眠くなってきちゃった。ほら、こっちで一緒にごろごろしよぉ～～"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-03",
+            "text": "抱き心地最高のぉ～、えびふらいおんとまつりちゃんのもふもふコンビだぞぉ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-04",
+            "text": "え、あのネコちゃんを撫でたいのぉ？だ～め、撫で撫でならまつりがいるでしょ～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00007_00007-5-uniq-0096-00_card-potential-05",
+            "text": "もぉ～、我慢せずにモフればいいのにぃ～。まつりオオカミが、癒してあげちゃうぞっ♡"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0010-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00010_00010-5-uniq-0010-00_card-detail",
@@ -105276,6 +106230,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-detail",
+            "text": "じゃじゃーん！見て見て、この間の仮装パーティで来た衣装！\nどう、似合ってる？……えへへっ、でしょ～♪\nじゃあじゃあ、褒めてくれたお礼に、ゼータが診察してあげる！どれどれ～……\nまず、パッと見た感じ……頭が悪そうっ！！これは治療が必要ですねぇ～～～\nではでは、この……でっかい注射器で！！グサッといきますよ～、痛いですからね～♪\n……って、こらぁ！じたばたしないの！いい子にしてないとメッ、でしょ～？\n……ぷっ、ぷぷぷ、ウソだよぉ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-get",
+            "text": "みんなの心が元気になる、\nとっておきのライブを処方しまぁ～～す♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-01",
+            "text": "自分で包帯巻くのって難しいんだよぉ～？ふふ～ん、結構上手にできてるでしょ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-02",
+            "text": "頭以外にもたくさん悪いところがいっぱいありますねぇ～。もう少し検診しましょ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-03",
+            "text": "じゃ～あ、次はこの聴診器でお胸の音を聞かせてくださぁ～いっ♪……えいっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-04",
+            "text": "おぉっ、めっちゃ心臓ドキドキいってる！もしかしてぇ～～～？緊張してるのぉ～～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0100-00_card-potential-05",
+            "text": "また遊ぼう……じゃなくて、診察受けに来てね！お大事に、ゼータの患者さん♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0040-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0040-00_card-detail",
@@ -106158,6 +107161,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-detail",
+            "text": "よし……完成！愛の魔女ネリッサの、特製栄養ドリンクよ～♪\n材料は……秘密♡だけど、愛情を込めて三日三晩ことこと煮込んだから、きっとおいしくできてるはずよ♪\n……え？この格好だと、本当の魔女に迫られてるみたい？もしかして、怖い……？\nち、違うのっ。仮装パーティで着たから、もう1回着たいと思って……え、逆？似合ってるってこと？\nああっ、よかったぁ～～！ふふ、それじゃ、愛の魔女ネリッサが愛を込めて、ドリンクを飲ませてあげる♡\nほら、お口を開けて～？あ～～ん♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-get",
+            "text": "さぁみんな！\nも～っと応援したくなる魔法をかけてあげるっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-01",
+            "text": "だんだんあたしを好きにな～～る……どうっ、かかったかかった！？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-02",
+            "text": "ドリンクのお味はどう？まだまだあるから、たくさん飲んでね……ふふ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-03",
+            "text": "おまたせ～♪おかわりどうぞ……ああっ！？……あぁ～ん、こぼしちゃったぁ～"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-04",
+            "text": "お掃除手伝ってくれて助かったわ～♪お礼に……お願いなんでも聞いてあげる♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04015_04015-5-uniq-0099-00_card-potential-05",
+            "text": "お願い、何にするの？ふふ、顔が赤いわよ♪もしかして、やっとあたしの魔法にかかった？♡"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0055-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0055-00_card-detail",
@@ -106599,6 +107651,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-detail",
+            "text": "ハーッハッハッハッ！闇夜に蠢く数多の蝙蝠！その主の名は……ヴァンパイアらでんだぁ～～～！\n……はい、というわけで、ね！いわゆる茶番です！あははははっ♪\nえ、この衣装？これは仮装パーティで着た衣装なんだぁ～♪\nまあ、そんなことより、せっかく遊びに来てくれたんだし、一緒に乾杯しましょ～！\nささ！ドロリと濃厚なトマトジュースをどうぞっ♪\nけっして、血じゃないですよぉ～？では、グラスをお持ちくださいっ！\nいきますよぉ～？今宵の月に……かんぱぁ～～～いっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-get",
+            "text": "陽気な吸血鬼がお送りする愉快なひととき、\n味わい尽くしてくださいませ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-01",
+            "text": "見てよ、このシックな色味！やはりゴシックファッションはいいですなぁ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-02",
+            "text": "野菜は健康にいいからね！ではもう1杯……トマトジュースを飲みまぁ～す♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-03",
+            "text": "こうしてワイングラスで飲めば……雰囲気だけで酔えるっ！？わっはっは～～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-04",
+            "text": "お、お腹がタプタプになってきたぁ～……じゃぶじゃぶ飲むんじゃなかったぁ～……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0098-00_card-potential-05",
+            "text": "お見苦しい姿を見せましたっ……気を取り直して！艶麗に輝く月でも一緒に見ましょっ"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0061-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0061-00_card-detail",
@@ -106645,6 +107746,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0061-00_card-potential-05",
             "text": "一緒に遊ぶの楽ちいなぁ♪はじめと同じ青春を感じてくれてたら嬉しいで♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-detail",
+            "text": "じゃじゃ～ん、衣装チェンジ終了ぉ～！\n実は、これ、仮装パーティで着た衣装なんだぁ～。みなたんに見せたくて着てみましたっ\nどうですかぁ～？はじめ似合ってるよなぁ～？\n……えっ、かわいいっ？おいおいおい、何言ってんだっ。はじめはカッコイイだろぉ～っ？\nはぁ～もうこうなったら、この後もカッコいいパフォーマンス披露して、みなたんに『番長、カッコいいー！』って言わせてやるぅ～！\nそれじゃ、いっくよぉ～！ミュージック、スタートッ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-get",
+            "text": "ぴょんっ♪ぴょんっ♪ぴょんっ♪\n一緒にキョンシーダンス、やりましょ～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-01",
+            "text": "番長キョンシー轟はじめだぞー！ぴょんぴょんぴょ～んっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-02",
+            "text": "みんなと一緒にキョンシーダンスしたいんですけどぉ～……やってくれますかーーっ！！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-03",
+            "text": "リズムに合わせて両手を振りま～す！せーの、み～～ぎ♪ひ～だ～り♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-04",
+            "text": "すごい、すごい！みなたん覚えるの早すぎる！？この調子で本番も行こ～う！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06005_06005-5-uniq-0097-00_card-potential-05",
+            "text": "ぴょんぴょんぴょ～んっ♪あはは、息ぴったり～♪みんな最高のキョンシーダンサーだね♪"
         }
     },
     {
@@ -106827,6 +107977,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00007_00007-5-uniq-0008-00_start-card",
             "text": "まつりのいいとこ、見せちゃおっかな♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_skill-card",
+            "text": "ガブってしちゃうぞっ♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00007_00007-5-uniq-0096-00_start-card",
+            "text": "モフモフオオカミのまつりちゃんに、ちゅうも～く♪"
         }
     },
     {
@@ -107992,6 +109156,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_skill-card",
+            "text": "は～い、健診の時間だよ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03007_03007-5-uniq-0100-00_start-card",
+            "text": "お加減いかがですかぁ～？ゼータのライブで元気になりましょ～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-03007_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-03007_myself-001",
@@ -108398,6 +109576,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_skill-card",
+            "text": "愛の呪文を教えてあげる♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04015_04015-5-uniq-0099-00_start-card",
+            "text": "み～んな、あたしの魔法で虜になってぇ～～♡"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-04015_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-04015_myself-001",
@@ -108594,6 +109786,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_skill-card",
+            "text": "血、吸いまぁ～す！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06004_06004-5-uniq-0098-00_start-card",
+            "text": "さぁ、お立ち合い！闇夜に輝く絢爛なステージが始まるよぉ～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-06004_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-06004_myself-001",
@@ -108619,6 +109825,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-06005_06005-5-uniq-0061-00_start-card",
             "text": "知らざぁここに聞かせよう、わしらの武勇伝！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_skill-card",
+            "text": "押忍！キョンシーー！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06005_06005-5-uniq-0097-00_start-card",
+            "text": "はじめはキョンシーのば～んちょ！ついてこいやぁ！"
         }
     },
     {
@@ -112941,6 +114161,69 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-03007",
+            "text": "ゼタならまつりの肉球……好きにしていいよ♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-04015",
+            "text": "しっぽふりふり♪みんなこういうの好きでしょ～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06004",
+            "text": "がうがうっ♪らでんちゃん、遊んで遊んでぇ～～～っ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_00007-to-06005",
+            "text": "ちょろそうな獲物はっけ～ん！食べちゃうぞ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_03007-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_03007-to-00007",
+            "text": "ゼタのペットにしてもらえるってこと～！？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_04015-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_04015-to-00007",
+            "text": "ふぁ～～、ネリッサに飼いならされちゃう～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06004-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06004-to-00007",
+            "text": "でしょでしょ、ハグしてもいいよぉ～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06005-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_06005-to-00007",
+            "text": "もうはじめぇ！どこ引っ張ってんの～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+            "text": "まつりオオカミから目を離したら、だ・め・だ・ぞっ♡ず～っと見守っててね♡"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00007_00007-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00007_00007-to-00001",
@@ -113536,6 +114819,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00007_03007-5-uniq-0100-00_00007-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_03007-5-uniq-0100-00_00007-to-03007",
+            "text": "うっひょ～♪そのガーターベルト、かわちぃ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_03007-5-uniq-0100-00_03007-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_03007-5-uniq-0100-00_03007-to-00007",
+            "text": "そうなの……まつりはかわいいゼタにお熱だよぉ～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00007_03007-to-00007",
         "data": {
             "id": "la-text_cv-live_dial_chr-00007_03007-to-00007",
@@ -113613,6 +114910,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00007_04015-5-uniq-0099-00_00007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_04015-5-uniq-0099-00_00007-to-04015",
+            "text": "ネリッサ、まつりに愛の魔法かけて～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_04015-5-uniq-0099-00_04015-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_04015-5-uniq-0099-00_04015-to-00007",
+            "text": "まつりのこと呼んだぁ？かわいい魔女さ～ん♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00007_04015-to-00007",
         "data": {
             "id": "la-text_cv-live_dial_chr-00007_04015-to-00007",
@@ -113648,10 +114959,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00007_06004-5-uniq-0098-00_00007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_06004-5-uniq-0098-00_00007-to-06004",
+            "text": "吸血鬼って棺桶で寝るんでしょ？まつりも一緒に入りたいなぁ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_06004-5-uniq-0098-00_06004-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_06004-5-uniq-0098-00_06004-to-00007",
+            "text": "それは、まつりのハグ～！さ、試してみよぉ～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00007_06004-to-00007",
         "data": {
             "id": "la-text_cv-live_dial_chr-00007_06004-to-00007",
             "text": "その心は……弾むよ、心がボインボイン♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_06005-5-uniq-0097-00_00007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_06005-5-uniq-0097-00_00007-to-06005",
+            "text": "大丈夫、お腹冷えてない？まつりが温めてあげよっかぁ～！？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00007_06005-5-uniq-0097-00_06005-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00007_06005-5-uniq-0097-00_06005-to-00007",
+            "text": "おいおい、子供キョンシーはしゃいでんな～♪"
         }
     },
     {
@@ -139730,6 +141069,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03007_00007-5-uniq-0096-00_00007-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_00007-5-uniq-0096-00_00007-to-03007",
+            "text": "わ～い！いっぱいぷにぷにしちゃお～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_00007-5-uniq-0096-00_03007-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_00007-5-uniq-0096-00_03007-to-00007",
+            "text": "うーんオオカミかぁ……うちで飼えるかなぁ？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03007_00007-to-03007",
         "data": {
             "id": "la-text_cv-live_dial_chr-03007_00007-to-03007",
@@ -139965,6 +141318,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0039-00_myself",
             "text": "にゃはは♪盛り上げ上手のみんなに、特別なご褒美あげちゃおっかな！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_00007-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_00007-to-03007",
+            "text": "ま、まつり姉ちゃん、そんなに見られると恥ずかしいよぉ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-00007",
+            "text": "まつり姉ちゃん顔赤いよ！もしかして熱あるの！？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-04015",
+            "text": "ねぇねぇ、この腰のポーチ、何が入ってると思う～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06004",
+            "text": "白衣ならぬ、黒衣の天使、登場～～っ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_03007-to-06005",
+            "text": "かっこいい番長は、注射なんて怖くないよね～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_04015-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_04015-to-03007",
+            "text": "仕方ないなぁ～♪そうなったら看病してあげるっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06004-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06004-to-03007",
+            "text": "ち、ちがうよ！？これはファッションだもんっ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06005-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_06005-to-03007",
+            "text": "ゼータは野菜食べなくても健康で～す！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+            "text": "みんなの心が元気になる、とっておきのライブを処方しまぁ～～す♪"
         }
     },
     {
@@ -140451,6 +141867,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03007_04015-5-uniq-0099-00_03007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_04015-5-uniq-0099-00_03007-to-04015",
+            "text": "ゼータがPONしなくなる魔法があったらな～……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_04015-5-uniq-0099-00_04015-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_04015-5-uniq-0099-00_04015-to-03007",
+            "text": "にゃあ～～♪って、ネコの真似させるなぁーっ！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03007_04015-to-03007",
         "data": {
             "id": "la-text_cv-live_dial_chr-03007_04015-to-03007",
@@ -140486,10 +141916,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03007_06004-5-uniq-0098-00_03007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_06004-5-uniq-0098-00_03007-to-06004",
+            "text": "おぉ～、その衣装、ワインレッドが映えるねっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_06004-5-uniq-0098-00_06004-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_06004-5-uniq-0098-00_06004-to-03007",
+            "text": "あははっ♪も～っとニコニコしちゃおっかなぁ～？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03007_06004-to-03007",
         "data": {
             "id": "la-text_cv-live_dial_chr-03007_06004-to-03007",
             "text": "とっておきのダンス、見せちゃおうかな♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_06005-5-uniq-0097-00_03007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_06005-5-uniq-0097-00_03007-to-06005",
+            "text": "このお札に、『ゼータ天才』って書いちゃお～っと♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_06005-5-uniq-0097-00_06005-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_06005-5-uniq-0097-00_06005-to-03007",
+            "text": "これは、かわいすぎてビビっちゃうねぇ～～♪"
         }
     },
     {
@@ -149208,6 +150666,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04015_00007-5-uniq-0096-00_00007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_00007-5-uniq-0096-00_00007-to-04015",
+            "text": "まぁかわいい！ファンサービスたすかるぅ～♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_00007-5-uniq-0096-00_04015-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_00007-5-uniq-0096-00_04015-to-00007",
+            "text": "こうしてずぅ～っと毛繕いしていたいわ♡"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04015_00007-to-04015",
         "data": {
             "id": "la-text_cv-live_dial_chr-04015_00007-to-04015",
@@ -149425,6 +150897,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04015_03007-5-uniq-0100-00_03007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_03007-5-uniq-0100-00_03007-to-04015",
+            "text": "もしかして、キャットフードですかぁ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_03007-5-uniq-0100-00_04015-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_03007-5-uniq-0100-00_04015-to-03007",
+            "text": "ゼータ先輩がかわいすぎて卒倒しそう……♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04015_03007-to-04015",
         "data": {
             "id": "la-text_cv-live_dial_chr-04015_03007-to-04015",
@@ -149562,6 +151048,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0054-00_myself",
             "text": "あたしにたくさんの愛をくれてありがとう。これからも愛してね♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_00007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_00007-to-04015",
+            "text": "まつり先輩がこんな近くにっ！は～ん、ドキドキする……♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_03007-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_03007-to-04015",
+            "text": "どうして～？うっかり屋さんなところがかわいいのに～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-00007",
+            "text": "鏡よ、鏡、まつり先輩が好きな魔女はだぁれ～～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-03007",
+            "text": "魔法でゼータ先輩を本物のネコちゃんに……それっ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06004",
+            "text": "魔女ネリッサのこと、お気に召していただけたかしら～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_04015-to-06005",
+            "text": "はじめちゃん、素晴らしいダンスだわ！まさにマジック♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06004-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06004-to-04015",
+            "text": "まぁ緊張しているの？魔女のおまじないが必要！？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06005-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_06005-to-04015",
+            "text": "ふふふ、みんなに笑顔の魔法をかけられてよかったわ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+            "text": "さぁみんな！も～っと応援したくなる魔法をかけてあげるっ♪"
         }
     },
     {
@@ -149978,10 +151527,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04015_06004-5-uniq-0098-00_04015-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_06004-5-uniq-0098-00_04015-to-06004",
+            "text": "そのルージュの色、ステキ！衣装にもぴったりね～♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_06004-5-uniq-0098-00_06004-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_06004-5-uniq-0098-00_06004-to-04015",
+            "text": "ふふふ、翼をみんなに見せつけちゃって♪かわいいわ～♡"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04015_06004-to-04015",
         "data": {
             "id": "la-text_cv-live_dial_chr-04015_06004-to-04015",
             "text": "ネリッサで、濃厚なデュエットよ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_06005-5-uniq-0097-00_04015-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_06005-5-uniq-0097-00_04015-to-06005",
+            "text": "キレキレダンスの妖怪さん、一緒に踊りましょ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04015_06005-5-uniq-0097-00_06005-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04015_06005-5-uniq-0097-00_06005-to-04015",
+            "text": "ふふふ……はじめちゃんったらジャンプしてかわいい♡"
         }
     },
     {
@@ -153667,6 +155244,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06004_00007-5-uniq-0096-00_00007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_00007-5-uniq-0096-00_00007-to-06004",
+            "text": "いやぁぁぁ～！？急に抱きつかないでぇ～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_00007-5-uniq-0096-00_06004-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_00007-5-uniq-0096-00_06004-to-00007",
+            "text": "わぁ、モフモフだぁ！ぬいぐるみみた～～い！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06004_00007-to-06004",
         "data": {
             "id": "la-text_cv-live_dial_chr-06004_00007-to-06004",
@@ -153884,6 +155475,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06004_03007-5-uniq-0100-00_03007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_03007-5-uniq-0100-00_03007-to-06004",
+            "text": "はい、拍手ー！きゃぁ～、かわいい～～～っ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_03007-5-uniq-0100-00_06004-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_03007-5-uniq-0100-00_06004-to-03007",
+            "text": "たくさん包帯なんてしちゃって……ケガしすぎですよ！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06004_03007-to-06004",
         "data": {
             "id": "la-text_cv-live_dial_chr-06004_03007-to-06004",
@@ -153961,6 +155566,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06004_04015-5-uniq-0099-00_04015-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_04015-5-uniq-0099-00_04015-to-06004",
+            "text": "流石ネリッサ先輩、堂々たる着こなしですなぁ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_04015-5-uniq-0099-00_06004-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_04015-5-uniq-0099-00_06004-to-04015",
+            "text": "今日のMC盛大にウケますように～～～っ！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06004_04015-to-06004",
         "data": {
             "id": "la-text_cv-live_dial_chr-06004_04015-to-06004",
@@ -154035,6 +155654,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0060-00_myself",
             "text": "皆々様！これからも、よろしくお願い申し上げます！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_00007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_00007-to-06004",
+            "text": "あ、どうぞ～！らでんは別の棺桶で眠りますね"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_03007-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_03007-to-06004",
+            "text": "これはトマトジュースを溢しましてぇ～……なんつってぇ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_04015-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_04015-to-06004",
+            "text": "ハッ、何やら褒められてる予感！やったぁ～～～っ♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-00007",
+            "text": "ここでクイズです！吸血鬼の弱点といえばなんでしょう！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-03007",
+            "text": "ゼータ先輩の笑顔が眩しいぃ！？灰になるぅ～っ"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-04015",
+            "text": "皆様、ご注目！この翼で空を飛んで見せましょう！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06004-to-06005",
+            "text": "わっはっは～！！お前らの血を吸いに来たぞぉ～～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06005-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_06005-to-06004",
+            "text": "そのとーり！ま、らでんは血よりお酒のほうが好きだけどね！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+            "text": "陽気な吸血鬼がお送りする愉快なひととき、味わい尽くしてくださいませ～！"
         }
     },
     {
@@ -154416,6 +156098,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06004-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06004-to-06005",
+            "text": "袖がブラブラして危ないなぁ～……よし、縛ってあげよう！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06005-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06004_06005-5-uniq-0097-00_06005-to-06004",
+            "text": "いやぁ～～！らでんの破天荒が封印されちゃうぅ！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06004_06005-to-06004",
         "data": {
             "id": "la-text_cv-live_dial_chr-06004_06005-to-06004",
@@ -154455,6 +156151,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06005_00006-to-06005",
             "text": "失礼な！はじめは番長ですよ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_00007-5-uniq-0096-00_00007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_00007-5-uniq-0096-00_00007-to-06005",
+            "text": "うわぁぁぁ！食べないでぇ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_00007-5-uniq-0096-00_06005-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_00007-5-uniq-0096-00_06005-to-00007",
+            "text": "このしっぽ……どこから生えてるんですか？"
         }
     },
     {
@@ -154675,6 +156385,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06005_03007-5-uniq-0100-00_03007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_03007-5-uniq-0100-00_03007-to-06005",
+            "text": "ちゅ、注射だけはむりゃ～っ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_03007-5-uniq-0100-00_06005-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_03007-5-uniq-0100-00_06005-to-03007",
+            "text": "ゼータ先輩、健康のために野菜食べなきゃだめですよ？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06005_03007-to-06005",
         "data": {
             "id": "la-text_cv-live_dial_chr-06005_03007-to-06005",
@@ -154766,6 +156490,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06005_04015-5-uniq-0099-00_04015-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_04015-5-uniq-0099-00_04015-to-06005",
+            "text": "まだまだいくよぉ、最後まではじめについてきてぇ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_04015-5-uniq-0099-00_06005-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_04015-5-uniq-0099-00_06005-to-04015",
+            "text": "ふわぁ～……ネリッサ姉さんの歌、すげぇ～～～"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06005_04015-to-06005",
         "data": {
             "id": "la-text_cv-live_dial_chr-06005_04015-to-06005",
@@ -154822,6 +156560,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06004-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06004-to-06005",
+            "text": "むにゃむにゃ、らでん、なりきってるな～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06005-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06004-5-uniq-0098-00_06005-to-06004",
+            "text": "吸血鬼って血を飲むと元気になるんだよね？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06005_06004-to-06005",
         "data": {
             "id": "la-text_cv-live_dial_chr-06005_06004-to-06005",
@@ -154854,6 +156606,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0061-00_myself",
             "text": "この名を宇宙に轟かせる、その日まで！応援、夜路紫駆！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_00007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_00007-to-06005",
+            "text": "にゃにゃっ！？目が怖いです～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_03007-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_03007-to-06005",
+            "text": "落書きしないでぇ～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_04015-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_04015-to-06005",
+            "text": "うぃ～～♪ネリッサ姉さんと一緒に踊ります！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06004-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06004-to-06005",
+            "text": "や～め～てぇ～！手が出なくなるだろぉ～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-00007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-00007",
+            "text": "むにゃむにゃ♪袖ぶらんぶら～～ん♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-03007",
+            "text": "はじめはただのキョンシーじゃない……超怖いんだぞっ！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-04015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-04015",
+            "text": "ネリッサ姉さ～ん、一緒にぴょんぴょんしよぉ～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-06004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_06005-to-06004",
+            "text": "らでんにも、おそろいのお札貼ってあげよっか？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+            "text": "ぴょんっ♪ぴょんっ♪ぴょんっ♪一緒にキョンシーダンス、やりましょ～～！"
         }
     },
     {

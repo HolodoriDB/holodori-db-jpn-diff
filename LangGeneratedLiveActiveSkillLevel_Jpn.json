@@ -504,6 +504,76 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.1-description",
+            "text": "26秒毎に中確率で10秒間スコアが90%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.2-description",
+            "text": "26秒毎に中確率で10秒間スコアが[highlight]110[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.1-description",
+            "text": "27秒毎に中確率で10秒間スコアが95%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.2-description",
+            "text": "27秒毎に中確率で10秒間スコアが[highlight]115[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.1-description",
+            "text": "29秒毎に高確率で10秒間スコアが95%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.2-description",
+            "text": "29秒毎に高確率で[highlight]11[/highlight]秒間スコアが[highlight]105[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.1-description",
+            "text": "23秒毎に中確率で8秒間スコアが100%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.2-description",
+            "text": "23秒毎に中確率で8秒間スコアが[highlight]120[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.1-description",
+            "text": "32秒毎に中確率で11秒間スコアが55%UP\nReGLOSSが2人以上でスコアが110%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.2-description",
+            "text": "32秒毎に中確率で11秒間スコアが[highlight]65[/highlight]%UP\nReGLOSSが2人以上でスコアが[highlight]130[/highlight]%UP"
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

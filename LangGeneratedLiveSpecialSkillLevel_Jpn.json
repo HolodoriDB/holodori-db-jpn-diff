@@ -476,6 +476,76 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00007-5-uniq-0096-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00007-5-uniq-0096-00.1-description",
+            "text": "14秒間スコアサポート効果95%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00007-5-uniq-0096-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00007-5-uniq-0096-00.2-description",
+            "text": "14秒間スコアサポート効果[highlight]115[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03007-5-uniq-0100-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03007-5-uniq-0100-00.1-description",
+            "text": "12秒間スコアサポート効果110%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03007-5-uniq-0100-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03007-5-uniq-0100-00.2-description",
+            "text": "12秒間スコアサポート効果[highlight]135[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04015-5-uniq-0099-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04015-5-uniq-0099-00.1-description",
+            "text": "15秒間スコアサポート効果90%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04015-5-uniq-0099-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04015-5-uniq-0099-00.2-description",
+            "text": "15秒間スコアサポート効果[highlight]105[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06004-5-uniq-0098-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06004-5-uniq-0098-00.1-description",
+            "text": "12秒間スコアサポート効果100%\nReGLOSSが2人以上でスキル発動率が40%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06004-5-uniq-0098-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06004-5-uniq-0098-00.2-description",
+            "text": "12秒間スコアサポート効果[highlight]120[/highlight]%\nReGLOSSが2人以上でスキル発動率が[highlight]45[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06005-5-uniq-0097-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06005-5-uniq-0097-00.1-description",
+            "text": "14秒間スコアサポート効果95%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06005-5-uniq-0097-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06005-5-uniq-0097-00.2-description",
+            "text": "14秒間スコアサポート効果[highlight]115[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
