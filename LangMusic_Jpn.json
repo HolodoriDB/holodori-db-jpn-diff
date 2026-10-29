@@ -1504,6 +1504,13 @@
         }
     },
     {
+        "id": "la-music_arranger-m0549",
+        "data": {
+            "id": "la-music_arranger-m0549",
+            "text": "DYES IWASAKI(FAKE TYPE.)"
+        }
+    },
+    {
         "id": "la-music_arranger-m0551",
         "data": {
             "id": "la-music_arranger-m0551",
@@ -3019,6 +3026,13 @@
         "data": {
             "id": "la-music_arranger_ruby-m0548",
             "text": "てにをは"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0549",
+        "data": {
+            "id": "la-music_arranger_ruby-m0549",
+            "text": "だいすいわさきふぇいくたいぷ"
         }
     },
     {
@@ -4604,6 +4618,13 @@
         }
     },
     {
+        "id": "la-music_composer-m0549",
+        "data": {
+            "id": "la-music_composer-m0549",
+            "text": "FAKE TYPE."
+        }
+    },
+    {
         "id": "la-music_composer-m0551",
         "data": {
             "id": "la-music_composer-m0551",
@@ -6183,6 +6204,13 @@
         "data": {
             "id": "la-music_composer_ruby-m0548",
             "text": "てにをは"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0549",
+        "data": {
+            "id": "la-music_composer_ruby-m0549",
+            "text": "ふぇいくたいぷ"
         }
     },
     {
@@ -8167,6 +8195,13 @@
         }
     },
     {
+        "id": "la-music_lyricist-m0549",
+        "data": {
+            "id": "la-music_lyricist-m0549",
+            "text": "TOPHAMHAT-KYO(FAKE TYPE.)"
+        }
+    },
+    {
         "id": "la-music_lyricist-m0551",
         "data": {
             "id": "la-music_lyricist-m0551",
@@ -9746,6 +9781,13 @@
         "data": {
             "id": "la-music_lyricist_ruby-m0548",
             "text": "てにをは"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0549",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0549",
+            "text": "とっぷはむはっときょうふぇいくたいぷ"
         }
     },
     {
@@ -11331,6 +11373,13 @@
         }
     },
     {
+        "id": "la-music_title-m0549",
+        "data": {
+            "id": "la-music_title-m0549",
+            "text": "Sakuraful March"
+        }
+    },
+    {
         "id": "la-music_title-m0551",
         "data": {
             "id": "la-music_title-m0551",
@@ -12910,6 +12959,13 @@
         "data": {
             "id": "la-music_title_ruby-m0548",
             "text": "きゃぴ"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0549",
+        "data": {
+            "id": "la-music_title_ruby-m0549",
+            "text": "さくらふるまーち"
         }
     },
     {
@@ -14495,6 +14551,13 @@
         }
     },
     {
+        "id": "la-singer_name-m0549",
+        "data": {
+            "id": "la-singer_name-m0549",
+            "text": "さくらみこ"
+        }
+    },
+    {
         "id": "la-singer_name-m0551",
         "data": {
             "id": "la-singer_name-m0551",
@@ -16074,6 +16137,13 @@
         "data": {
             "id": "la-singer_name_ruby-m0548",
             "text": "ほうしょうまりん"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0549",
+        "data": {
+            "id": "la-singer_name_ruby-m0549",
+            "text": "さくらみこ"
         }
     },
     {
