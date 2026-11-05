@@ -154,6 +154,27 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+            "text": "【うとうと気分で身支度を リス】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+            "text": "【星瞬く夜、ゆったりバスタイム ムーナ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+            "text": "【陽だまりぽかぽかスマイル イオフィ】SPスキル"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
@@ -2324,6 +2345,34 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03002",
+            "text": "【うとうと気分で身支度を リス】リス&ムーナ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03003",
+            "text": "【うとうと気分で身支度を リス】リス&イオフィ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03002-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03002-to-03001",
+            "text": "【うとうと気分で身支度を リス】ムーナ&リス"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03003-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03003-to-03001",
+            "text": "【うとうと気分で身支度を リス】イオフィ&リス"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_03002-5-uniq-0034-00_03002-to-03001",
         "data": {
             "id": "la-name_live_dial_voice_card_03002-5-uniq-0034-00_03002-to-03001",
@@ -2345,6 +2394,34 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03001-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03001-to-03002",
+            "text": "【星瞬く夜、ゆったりバスタイム ムーナ】リス&ムーナ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03001",
+            "text": "【星瞬く夜、ゆったりバスタイム ムーナ】ムーナ&リス"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03003",
+            "text": "【星瞬く夜、ゆったりバスタイム ムーナ】ムーナ&イオフィ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03003-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03003-to-03002",
+            "text": "【星瞬く夜、ゆったりバスタイム ムーナ】イオフィ&ムーナ"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_03003-to-03001",
         "data": {
             "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_03003-to-03001",
@@ -2363,6 +2440,34 @@
         "data": {
             "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_myself",
             "text": "【陽光射すCosmos Palette イオフィ】SPスキル"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03001-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03001-to-03003",
+            "text": "【陽だまりぽかぽかスマイル イオフィ】リス&イオフィ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03002-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03002-to-03003",
+            "text": "【陽だまりぽかぽかスマイル イオフィ】ムーナ&イオフィ"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03001",
+            "text": "【陽だまりぽかぽかスマイル イオフィ】イオフィ&リス"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03002",
+            "text": "【陽だまりぽかぽかスマイル イオフィ】イオフィ&ムーナ"
         }
     },
     {

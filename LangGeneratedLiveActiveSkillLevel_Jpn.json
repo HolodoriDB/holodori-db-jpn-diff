@@ -574,6 +574,48 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.1-description",
+            "text": "26秒毎に中確率で10秒間スコアが90%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.2-description",
+            "text": "26秒毎に中確率で10秒間スコアが[highlight]110[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.1-description",
+            "text": "33秒毎に中確率で12秒間スコアが50%UP\n[attribute=happy]ハッピータイプ[/attribute]2人以上でスコアが100%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.2-description",
+            "text": "33秒毎に中確率で12秒間スコアが[highlight]60[/highlight]%UP\n[attribute=happy]ハッピータイプ[/attribute]2人以上でスコアが[highlight]120[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.1-description",
+            "text": "20秒毎に高確率で7秒間スコアが95%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.2-description",
+            "text": "20秒毎に高確率で7秒間スコアが[highlight]115[/highlight]%UP"
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
