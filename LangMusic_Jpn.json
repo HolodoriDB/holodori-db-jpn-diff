@@ -1455,6 +1455,41 @@
         }
     },
     {
+        "id": "la-music_arranger-m0383",
+        "data": {
+            "id": "la-music_arranger-m0383",
+            "text": "今野耕輔（Core Creative）"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0384",
+        "data": {
+            "id": "la-music_arranger-m0384",
+            "text": "宮川麿"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0385",
+        "data": {
+            "id": "la-music_arranger-m0385",
+            "text": "Diz"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0386",
+        "data": {
+            "id": "la-music_arranger-m0386",
+            "text": "先田貴裕(Dream Monster)"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0387",
+        "data": {
+            "id": "la-music_arranger-m0387",
+            "text": "太嘉志・猟平"
+        }
+    },
+    {
         "id": "la-music_arranger-m0388",
         "data": {
             "id": "la-music_arranger-m0388",
@@ -1473,6 +1508,27 @@
         "data": {
             "id": "la-music_arranger-m0396",
             "text": "釣 俊輔"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0398",
+        "data": {
+            "id": "la-music_arranger-m0398",
+            "text": "山田高弘"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0403",
+        "data": {
+            "id": "la-music_arranger-m0403",
+            "text": "ARM（IOSYS)"
+        }
+    },
+    {
+        "id": "la-music_arranger-m0404",
+        "data": {
+            "id": "la-music_arranger-m0404",
+            "text": "日直伸次(HANO)・青木宏憲(HANO)"
         }
     },
     {
@@ -3015,6 +3071,41 @@
         }
     },
     {
+        "id": "la-music_arranger_ruby-m0383",
+        "data": {
+            "id": "la-music_arranger_ruby-m0383",
+            "text": "こんのこうすけ"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0384",
+        "data": {
+            "id": "la-music_arranger_ruby-m0384",
+            "text": "みやかわまろ"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0385",
+        "data": {
+            "id": "la-music_arranger_ruby-m0385",
+            "text": "でぃず"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0386",
+        "data": {
+            "id": "la-music_arranger_ruby-m0386",
+            "text": "さきたたかひろ"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0387",
+        "data": {
+            "id": "la-music_arranger_ruby-m0387",
+            "text": "たかしりょうへい"
+        }
+    },
+    {
         "id": "la-music_arranger_ruby-m0388",
         "data": {
             "id": "la-music_arranger_ruby-m0388",
@@ -3033,6 +3124,27 @@
         "data": {
             "id": "la-music_arranger_ruby-m0396",
             "text": "つりしゅんすけ"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0398",
+        "data": {
+            "id": "la-music_arranger_ruby-m0398",
+            "text": "やまだたかひろ"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0403",
+        "data": {
+            "id": "la-music_arranger_ruby-m0403",
+            "text": "あーむいおしす"
+        }
+    },
+    {
+        "id": "la-music_arranger_ruby-m0404",
+        "data": {
+            "id": "la-music_arranger_ruby-m0404",
+            "text": "ひじきしんじあおきひろのり"
         }
     },
     {
@@ -4639,6 +4751,41 @@
         }
     },
     {
+        "id": "la-music_composer-m0383",
+        "data": {
+            "id": "la-music_composer-m0383",
+            "text": "今野耕輔（Core Creative）"
+        }
+    },
+    {
+        "id": "la-music_composer-m0384",
+        "data": {
+            "id": "la-music_composer-m0384",
+            "text": "宮川麿"
+        }
+    },
+    {
+        "id": "la-music_composer-m0385",
+        "data": {
+            "id": "la-music_composer-m0385",
+            "text": "Diz"
+        }
+    },
+    {
+        "id": "la-music_composer-m0386",
+        "data": {
+            "id": "la-music_composer-m0386",
+            "text": "先田貴裕(Dream Monster)"
+        }
+    },
+    {
+        "id": "la-music_composer-m0387",
+        "data": {
+            "id": "la-music_composer-m0387",
+            "text": "太嘉志・猟平"
+        }
+    },
+    {
         "id": "la-music_composer-m0388",
         "data": {
             "id": "la-music_composer-m0388",
@@ -4657,6 +4804,27 @@
         "data": {
             "id": "la-music_composer-m0396",
             "text": "獅子志司"
+        }
+    },
+    {
+        "id": "la-music_composer-m0398",
+        "data": {
+            "id": "la-music_composer-m0398",
+            "text": "山田高弘"
+        }
+    },
+    {
+        "id": "la-music_composer-m0403",
+        "data": {
+            "id": "la-music_composer-m0403",
+            "text": "ARM（IOSYS)"
+        }
+    },
+    {
+        "id": "la-music_composer-m0404",
+        "data": {
+            "id": "la-music_composer-m0404",
+            "text": "青木宏憲(HANO)・日直伸次(HANO)・廣澤優也(HANO)"
         }
     },
     {
@@ -6263,6 +6431,41 @@
         }
     },
     {
+        "id": "la-music_composer_ruby-m0383",
+        "data": {
+            "id": "la-music_composer_ruby-m0383",
+            "text": "こんのこうすけ"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0384",
+        "data": {
+            "id": "la-music_composer_ruby-m0384",
+            "text": "みやかわまろ"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0385",
+        "data": {
+            "id": "la-music_composer_ruby-m0385",
+            "text": "でぃず"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0386",
+        "data": {
+            "id": "la-music_composer_ruby-m0386",
+            "text": "さきたたかひろ"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0387",
+        "data": {
+            "id": "la-music_composer_ruby-m0387",
+            "text": "たかしりょうへい"
+        }
+    },
+    {
         "id": "la-music_composer_ruby-m0388",
         "data": {
             "id": "la-music_composer_ruby-m0388",
@@ -6281,6 +6484,27 @@
         "data": {
             "id": "la-music_composer_ruby-m0396",
             "text": "しししし"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0398",
+        "data": {
+            "id": "la-music_composer_ruby-m0398",
+            "text": "やまだたかひろ"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0403",
+        "data": {
+            "id": "la-music_composer_ruby-m0403",
+            "text": "あーむいおしす"
+        }
+    },
+    {
+        "id": "la-music_composer_ruby-m0404",
+        "data": {
+            "id": "la-music_composer_ruby-m0404",
+            "text": "あおきひろのりひじきしんじひろさわゆうや"
         }
     },
     {
@@ -8286,6 +8510,41 @@
         }
     },
     {
+        "id": "la-music_lyricist-m0383",
+        "data": {
+            "id": "la-music_lyricist-m0383",
+            "text": "今野耕輔（Core Creative）"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0384",
+        "data": {
+            "id": "la-music_lyricist-m0384",
+            "text": "SARAH"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0385",
+        "data": {
+            "id": "la-music_lyricist-m0385",
+            "text": "Diz"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0386",
+        "data": {
+            "id": "la-music_lyricist-m0386",
+            "text": "Mai Haylee,Yui Kylee"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0387",
+        "data": {
+            "id": "la-music_lyricist-m0387",
+            "text": "太嘉志・猟平"
+        }
+    },
+    {
         "id": "la-music_lyricist-m0388",
         "data": {
             "id": "la-music_lyricist-m0388",
@@ -8304,6 +8563,27 @@
         "data": {
             "id": "la-music_lyricist-m0396",
             "text": "獅子志司"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0398",
+        "data": {
+            "id": "la-music_lyricist-m0398",
+            "text": "Neko Hacker"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0403",
+        "data": {
+            "id": "la-music_lyricist-m0403",
+            "text": "かたほとり（IOSYS)"
+        }
+    },
+    {
+        "id": "la-music_lyricist-m0404",
+        "data": {
+            "id": "la-music_lyricist-m0404",
+            "text": "モリタコータ"
         }
     },
     {
@@ -9910,6 +10190,41 @@
         }
     },
     {
+        "id": "la-music_lyricist_ruby-m0383",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0383",
+            "text": "こんのこうすけ"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0384",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0384",
+            "text": "さら"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0385",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0385",
+            "text": "でぃず"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0386",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0386",
+            "text": "まいへいりーゆいかいりー"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0387",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0387",
+            "text": "たかしりょうへい"
+        }
+    },
+    {
         "id": "la-music_lyricist_ruby-m0388",
         "data": {
             "id": "la-music_lyricist_ruby-m0388",
@@ -9928,6 +10243,27 @@
         "data": {
             "id": "la-music_lyricist_ruby-m0396",
             "text": "しししし"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0398",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0398",
+            "text": "ねこはっかー"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0403",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0403",
+            "text": "かたほとりいおしす"
+        }
+    },
+    {
+        "id": "la-music_lyricist_ruby-m0404",
+        "data": {
+            "id": "la-music_lyricist_ruby-m0404",
+            "text": "もりたこーた"
         }
     },
     {
@@ -11534,6 +11870,41 @@
         }
     },
     {
+        "id": "la-music_title-m0383",
+        "data": {
+            "id": "la-music_title-m0383",
+            "text": "微熱"
+        }
+    },
+    {
+        "id": "la-music_title-m0384",
+        "data": {
+            "id": "la-music_title-m0384",
+            "text": "前略、君に捧げるらびゅそんぐ！"
+        }
+    },
+    {
+        "id": "la-music_title-m0385",
+        "data": {
+            "id": "la-music_title-m0385",
+            "text": "Burning hope"
+        }
+    },
+    {
+        "id": "la-music_title-m0386",
+        "data": {
+            "id": "la-music_title-m0386",
+            "text": "Halulu"
+        }
+    },
+    {
+        "id": "la-music_title-m0387",
+        "data": {
+            "id": "la-music_title-m0387",
+            "text": "ぺこらいざー"
+        }
+    },
+    {
         "id": "la-music_title-m0388",
         "data": {
             "id": "la-music_title-m0388",
@@ -11552,6 +11923,27 @@
         "data": {
             "id": "la-music_title-m0396",
             "text": "メトロポリス (metropolis)"
+        }
+    },
+    {
+        "id": "la-music_title-m0398",
+        "data": {
+            "id": "la-music_title-m0398",
+            "text": "Fleur"
+        }
+    },
+    {
+        "id": "la-music_title-m0403",
+        "data": {
+            "id": "la-music_title-m0403",
+            "text": "お嫁♡HOLIC"
+        }
+    },
+    {
+        "id": "la-music_title-m0404",
+        "data": {
+            "id": "la-music_title-m0404",
+            "text": "リリカルMonster"
         }
     },
     {
@@ -13158,6 +13550,41 @@
         }
     },
     {
+        "id": "la-music_title_ruby-m0383",
+        "data": {
+            "id": "la-music_title_ruby-m0383",
+            "text": "びねつ"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0384",
+        "data": {
+            "id": "la-music_title_ruby-m0384",
+            "text": "ぜんりゃくきみにささげるらびゅそんぐ"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0385",
+        "data": {
+            "id": "la-music_title_ruby-m0385",
+            "text": "ばーにんぐほーぷ"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0386",
+        "data": {
+            "id": "la-music_title_ruby-m0386",
+            "text": "はるる"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0387",
+        "data": {
+            "id": "la-music_title_ruby-m0387",
+            "text": "ぺこらいざー"
+        }
+    },
+    {
         "id": "la-music_title_ruby-m0388",
         "data": {
             "id": "la-music_title_ruby-m0388",
@@ -13176,6 +13603,27 @@
         "data": {
             "id": "la-music_title_ruby-m0396",
             "text": "めとろぽりす"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0398",
+        "data": {
+            "id": "la-music_title_ruby-m0398",
+            "text": "ふるーる"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0403",
+        "data": {
+            "id": "la-music_title_ruby-m0403",
+            "text": "およめほりっく"
+        }
+    },
+    {
+        "id": "la-music_title_ruby-m0404",
+        "data": {
+            "id": "la-music_title_ruby-m0404",
+            "text": "りりかるもんすたー"
         }
     },
     {
@@ -14782,6 +15230,41 @@
         }
     },
     {
+        "id": "la-singer_name-m0383",
+        "data": {
+            "id": "la-singer_name-m0383",
+            "text": "ロボ子さん"
+        }
+    },
+    {
+        "id": "la-singer_name-m0384",
+        "data": {
+            "id": "la-singer_name-m0384",
+            "text": "桃鈴ねね"
+        }
+    },
+    {
+        "id": "la-singer_name-m0385",
+        "data": {
+            "id": "la-singer_name-m0385",
+            "text": "IRyS"
+        }
+    },
+    {
+        "id": "la-singer_name-m0386",
+        "data": {
+            "id": "la-singer_name-m0386",
+            "text": "Pavolia Reine"
+        }
+    },
+    {
+        "id": "la-singer_name-m0387",
+        "data": {
+            "id": "la-singer_name-m0387",
+            "text": "兎田ぺこら"
+        }
+    },
+    {
         "id": "la-singer_name-m0388",
         "data": {
             "id": "la-singer_name-m0388",
@@ -14800,6 +15283,27 @@
         "data": {
             "id": "la-singer_name-m0396",
             "text": "Ayunda Risu"
+        }
+    },
+    {
+        "id": "la-singer_name-m0398",
+        "data": {
+            "id": "la-singer_name-m0398",
+            "text": "雪花ラミィ"
+        }
+    },
+    {
+        "id": "la-singer_name-m0403",
+        "data": {
+            "id": "la-singer_name-m0403",
+            "text": "Nerissa Ravencroft"
+        }
+    },
+    {
+        "id": "la-singer_name-m0404",
+        "data": {
+            "id": "la-singer_name-m0404",
+            "text": "白銀ノエル"
         }
     },
     {
@@ -16406,6 +16910,41 @@
         }
     },
     {
+        "id": "la-singer_name_ruby-m0383",
+        "data": {
+            "id": "la-singer_name_ruby-m0383",
+            "text": "ろぼこさん"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0384",
+        "data": {
+            "id": "la-singer_name_ruby-m0384",
+            "text": "ももすずねね"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0385",
+        "data": {
+            "id": "la-singer_name_ruby-m0385",
+            "text": "あいりす"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0386",
+        "data": {
+            "id": "la-singer_name_ruby-m0386",
+            "text": "ぱゔぉりあれいね"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0387",
+        "data": {
+            "id": "la-singer_name_ruby-m0387",
+            "text": "うさだぺこら"
+        }
+    },
+    {
         "id": "la-singer_name_ruby-m0388",
         "data": {
             "id": "la-singer_name_ruby-m0388",
@@ -16424,6 +16963,27 @@
         "data": {
             "id": "la-singer_name_ruby-m0396",
             "text": "あゆんだりす"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0398",
+        "data": {
+            "id": "la-singer_name_ruby-m0398",
+            "text": "ゆきはならみぃ"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0403",
+        "data": {
+            "id": "la-singer_name_ruby-m0403",
+            "text": "ねりっされいゔんくろふと"
+        }
+    },
+    {
+        "id": "la-singer_name_ruby-m0404",
+        "data": {
+            "id": "la-singer_name_ruby-m0404",
+            "text": "しろがねのえる"
         }
     },
     {

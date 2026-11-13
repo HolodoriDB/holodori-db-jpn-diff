@@ -588,6 +588,76 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.1-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人のスコアサポート効果8%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.2-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人のスコアサポート効果[highlight]11[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.1-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人のスコアサポート効果8%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.2-description",
+            "text": "[attribute=pure]ピュアタイプ[/attribute]2人のスコアサポート効果[highlight]11[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.1-description",
+            "text": "5期生2人のテクニックが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.2-description",
+            "text": "5期生2人のテクニックが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.1-description",
+            "text": "ID2期生2人のパフォーマンスが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.2-description",
+            "text": "ID2期生2人のパフォーマンスが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.1-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが32%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.2-description",
+            "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが[highlight]43[/highlight]%UP"
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

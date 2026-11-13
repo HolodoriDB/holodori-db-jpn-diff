@@ -588,6 +588,76 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00002-5-uniq-0104-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00002-5-uniq-0104-00.1-description",
+            "text": "12秒間スコアサポート効果100%\nスキル発動率が35%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00002-5-uniq-0104-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00002-5-uniq-0104-00.2-description",
+            "text": "12秒間スコアサポート効果[highlight]120[/highlight]%\nスキル発動率が[highlight]40[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00019-5-uniq-0108-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00019-5-uniq-0108-00.1-description",
+            "text": "11秒間スコアサポート効果120%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00019-5-uniq-0108-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00019-5-uniq-0108-00.2-description",
+            "text": "11秒間スコアサポート効果[highlight]145[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00031-5-uniq-0105-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00031-5-uniq-0105-00.1-description",
+            "text": "12秒間スコアサポート効果100%\n5期生が2人以上でスキル発動率が40%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00031-5-uniq-0105-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00031-5-uniq-0105-00.2-description",
+            "text": "12秒間スコアサポート効果[highlight]120[/highlight]%\n5期生が2人以上でスキル発動率が[highlight]45[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03006-5-uniq-0107-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03006-5-uniq-0107-00.1-description",
+            "text": "11秒間スコアサポート効果110%\nID2期生が2人以上でスキル発動率が40%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03006-5-uniq-0107-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03006-5-uniq-0107-00.2-description",
+            "text": "11秒間スコアサポート効果[highlight]130[/highlight]%\nID2期生が2人以上でスキル発動率が[highlight]50[/highlight]%UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04007-5-uniq-0106-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04007-5-uniq-0106-00.1-description",
+            "text": "14秒間スコアサポート効果95%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04007-5-uniq-0106-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04007-5-uniq-0106-00.2-description",
+            "text": "14秒間スコアサポート効果[highlight]115[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
